@@ -199,7 +199,10 @@ footer.site-footer {
   .home-intro.stacked {
     text-align: center; }
   .home-intro .home-img {
+    max-width: 100%;
     padding: 20px; }
+    .home-intro .home-img img {
+      max-width: 100%; }
 
 .home-journal {
   display: -webkit-box;
@@ -211,16 +214,12 @@ footer.site-footer {
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  padding: 60px 0; }
+  padding: 60px 0;
+  text-align: center; }
   .home-journal h2 {
     margin-bottom: 2em; }
 
 .home-journal-posts {
-  width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -233,7 +232,17 @@ footer.site-footer {
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
           justify-content: space-around;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
   text-align: center; }
+  @media screen and (max-width: 768px) {
+    .home-journal-posts {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column; } }
 
 .highlight {
   background: #ffffff; }
