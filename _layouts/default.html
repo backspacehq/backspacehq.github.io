@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html>
+    {% include head.html %}
+    <body>
 
-  {% include head.html %}
+        <div class="site">
+          {% include header.html %}
 
-  <body>
+          {{ content }}
 
-    {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Your Name is<br />
+                What You Are<br />
+                you@example.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
+                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
 
-    {% include footer.html %}
-
-  </body>
-
+    </body>
 </html>
