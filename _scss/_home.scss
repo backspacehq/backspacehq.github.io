@@ -1,0 +1,59 @@
+
+#home {
+  width: 100%;
+}
+
+.home-cover {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 600px;
+
+  background: url("http://fillmurray.com/1200/600") no-repeat center center #ccc;
+  background-size: cover;
+}
+
+.home-intro {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  @media screen and (max-width: $break-medium) {
+    flex-direction: column;
+  }
+
+  padding: 40px;
+
+  &.stacked {
+    text-align: center;
+  }
+
+  .home-img {
+    padding: 20px;
+  }
+
+}
+
+.home-journal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 60px 0;
+
+  h2 {
+    margin-bottom: 2em;
+  }
+}
+
+.home-journal-posts {
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  text-align: center;
+
+}

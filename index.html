@@ -1,16 +1,67 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Backbase studio
 ---
-
 <div id="home">
+  <div class="home-cover">
+    <h1 class="home-tagline">Rethink. Rebuild. Repeat</h1>
+    {% include signup.html %}
+  </div>
 
-{% include signup.html %}
+  <div class="home-intro darker stacked">
+    <div class="home-text">
+      <h2>Backspace is a company that builds tech companies</h2>
+      <p>
+        Our goal is to build ideas into successful companies. We combine skills and capital to rapidly execute on an emerging technology. It’s a place where multiple ideas are build to product/market fit. After this seed stage, they debut as independent startups.
+      </p>
+    </div>
+  </div>
 
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <div class="home-intro">
+    <div class="home-img">
+      <img src="http://fillmurray.com/400/300" alt="Technology pushes humanity forward">
+    </div>
+    <div class="home-text">
+      <h2>Technology pushes humanity forward</h2>
+      <p>
+        One thing in history has consistently increased human wellbeing. The progress of technology. It’s what pushes humanity forward. That’s why we use technology to make the world a little better. It’s what we call ‘creating positive impact’. To disrupt is to change things for the better.
+      </p>
+    </div>
+  </div>
+
+  <div class="home-intro darker">
+    <div class="home-text">
+      <h2>A process for progress</h2>
+      <p>
+        Experience has shown us repeatable elements in building a tech startup. Based on these insights we’ve developed an analytical process, which we call the ‘venture creation flow’. Success and failure will continu to improve the steps in building a company. We will build several companies in parallel, but always with a dedicated founder from our studio.
+      </p>
+    </div>
+    <div class="home-img">
+      <img src="http://fillmurray.com/400/300" alt="Technology pushes humanity forward">
+    </div>
+  </div>
+
+  <div class="home-intro stacked">
+    <div class="home-img">
+      <img src="http://fillmurray.com/600/300" alt="Technology pushes humanity forward">
+    </div>
+    <div class="home-text">
+      <h2>The perfect co-founder of a seed stage startup</h2>
+      <p>
+        As a studio we co-found a startup with an entrepreneur who is a specialist in his field. We build the startup from idea to product/market fit over a period of 24 months.  This makes them ready for growth investment (Series A). After this period we deliver an independent startup with traction, a complete team and a working product.
+      </p>
+    </div>
+  </div>
+
+  <div class="home-journal darker">
+    <h2>Our Journal</h2>
+    <div class="home-journal-posts">
+      {% for post in site.posts %}
+      <div class="post">
+        <a href="{{ post.url }}"><img src="http://fillmurray.com/300/200" alt="{{ post.title }}"></a>
+        <p>{{ post.title }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>

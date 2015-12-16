@@ -1,6 +1,16 @@
-@import "reset";
-@import "syntax";
+// Our variables
+$base-font-size:   2rem;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
 
-body {
-    background: white;
-}
+$break-small: 480px;
+$break-medium: 768px;
+$break-large: 1200px;
+$break-xlarge: 1800px;
+
+@import
+        "base",
+        "layout",
+        "home",
+        "syntax"
+;

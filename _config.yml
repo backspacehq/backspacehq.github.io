@@ -1,5 +1,5 @@
 # Site settings
-title: Backspace Studio
+title: Backspace
 email: info@disrupted.vc
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,3 +12,5 @@ github_username:  disrupted
 markdown: redcarpet
 highlighter: pygments
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+permalink: pretty
+
