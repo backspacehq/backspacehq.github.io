@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/disrupted/backspace-website.git"
+    "url": "git+https://github.com/disrupted/disrupted.github.io.git"
   },
   "keywords": [
     "jekyll",
@@ -20,9 +20,9 @@
   "author": "Backspace Studio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/disrupted/backspace-website/issues"
+    "url": "https://github.com/disrupted/disrupted.github.io/issues"
   },
-  "homepage": "https://github.com/disrupted/backspace-website#readme",
+  "homepage": "https://github.com/disrupted/disrupted.github.io#readme",
   "devDependencies": {
     "browser-sync": "^2.10.1",
     "gulp": "^3.9.0",
