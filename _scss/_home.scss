@@ -4,7 +4,6 @@
 }
 
 .home-cover {
-
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -13,6 +12,17 @@
 
   background: url("http://fillmurray.com/1200/600") no-repeat center center #ccc;
   background-size: cover;
+
+  .home-tagline {
+    text-rendering: optimizelegibility;
+    text-shadow: 1px 1px 2px rgba(146, 150, 150, 0.55);
+    color: #fff;
+    font-family: "chaparral-pro", "Times New Roman", serif;
+    font-weight: 300;
+    font-style: italic;
+    width: 80%;
+  }
+
 }
 
 .home-intro {
@@ -23,7 +33,7 @@
     flex-direction: column;
   }
 
-  padding: 40px;
+  padding: 66px;
 
   &.stacked {
     text-align: center;

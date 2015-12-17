@@ -20,19 +20,25 @@ body {
     font-family: "chaparral-pro", "Times New Roman", serif;
     font-size: 2rem;
     font-weight: 400;
-
+    font-style: normal;
     background-color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-size: 100%;
     font-weight: 400;
+    color: $base-green;
 }
 
 h1 {
     font-family: "ocr-a-std", Verdana, sans-serif;
-    font-size: 200%;
+    font-size: 300%;
     margin-bottom: 1em;
+    line-height: 1.5em;
+
+    @media screen and (max-width: $break-medium) {
+      font-size: 180%;
+    }
 }
 
 h2 {
@@ -40,21 +46,41 @@ h2 {
     font-size: 120%;
     text-transform: uppercase;
     margin-bottom: 0.5em;
+
+    @media screen and (max-width: $break-medium) {
+      font-size: 100%;
+    }
+
 }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
-input {
-   font-size: 100%;
+input, button {
+    font-family: "chaparral-pro", "Times New Roman", serif;
+    font-size: 100%;
+    padding: 0px 20px;
+    line-height: 2.2em;
+
+    @media screen and (max-width: $break-medium) {
+        font-size: 80%;
+        padding: 0px 10px;
+    }
 }
+
+input[type=submit], button {
+    font-family: "ocr-a-std", Verdana, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 
 /*
     Exceptions
 */
 .darker {
-    background-color: #f0f0f0;
+    background-color: $base-grey;
 }
 
 .stacked {

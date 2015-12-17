@@ -1,12 +1,16 @@
 // Our variables
 $base-font-size:   2rem;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
 
+// Responsive breaks
 $break-small: 480px;
 $break-medium: 768px;
 $break-large: 1200px;
 $break-xlarge: 1800px;
+
+// Colors
+$base-green: #4FE399;
+$base-grey: #F7F7F7;
 
 @import
         "base",
