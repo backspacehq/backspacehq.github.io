@@ -19,7 +19,7 @@ title: Backbase studio
 
   <div class="home-intro">
     <div class="home-img">
-      <img src="http://fillmurray.com/400/200" alt="Technology pushes humanity forward">
+      <img src="/img/content/home/illustration-1-temp.png" alt="Technology pushes humanity forward">
     </div>
     <div class="home-text">
       <h2>Technology pushes humanity forward</h2>
@@ -37,13 +37,13 @@ title: Backbase studio
       </p>
     </div>
     <div class="home-img">
-      <img src="http://fillmurray.com/400/200" alt="Technology pushes humanity forward">
+      <img src="/img/content/home/illustration-2-temp.png" alt="Using technology to create positive impact">
     </div>
   </div>
 
   <div class="home-intro stacked">
     <div class="home-img">
-      <img src="http://fillmurray.com/600/300" alt="Technology pushes humanity forward">
+      <img src="/img/content/home/illustration-3-temp.png" alt="The perfect co-founder of a seed stage startup">
     </div>
     <div class="home-text">
       <h2>The perfect co-founder of a seed stage startup</h2>
@@ -58,8 +58,12 @@ title: Backbase studio
     <div class="home-journal-posts">
       {% for post in site.posts %}
       <div class="post">
-        <a href="{{ post.url }}"><img src="http://fillmurray.com/300/200" alt="{{ post.title }}"></a>
-        <p>{{ post.title }}</p>
+        <a href="{{ post.url }}" style="background-image: url({{ post.cover }})">
+          <div class="post-title">
+          {{ post.title }}
+          </div>
+        </a>
+        <p class="post-summary">{{ post.summary }}</p>
       </div>
       {% endfor %}
     </div>

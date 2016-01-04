@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Powering the internet of everything."
+summary: "The internet just turned 25. This is a big moment, but we’re only getting started."
 date:   2015-12-16 09:11:03
 categories: projects
+cover: /img/content/journal/journal-photo-3-temp.jpg
 ---
 
 # Powering the internet of everything.
