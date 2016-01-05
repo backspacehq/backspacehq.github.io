@@ -1,0 +1,38 @@
+
+.portfolio-cover
+  background-image: url("/img/content/portfolio/header-photo-2-temp.JPG");
+
+
+.content-block-milestones
+  display: flex
+  flex-direction: column
+  width: 100%
+  align-items: flex-end
+
+.milestone-item
+  text-align: left
+  border-left: 2px solid #999999
+  padding: 40px
+  position: relative
+  width: 50%
+
+  .milestone-item-date
+    font-weight: 300
+    font-style: italic
+
+    &:before
+      content: ""
+      display: block
+      position: absolute
+      width: 10px
+      height: 10px
+      top: 50px;
+      left: -6px;
+      background-image: url(/img/dot.svg)
+      background-size: contain
+
+  .milestone-item-title
+    font-weight: 700
+    font-style: normal
+
+  .milestone-item-desc

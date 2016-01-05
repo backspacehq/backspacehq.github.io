@@ -3,12 +3,12 @@ layout: default
 title: Backbase studio
 ---
 <div id="home">
-  <div class="home-cover">
-    <h1 class="home-tagline">Backspace is a startup studio driven by technology. Together we build complex technologies into commercial companies.</h1>
+  <div class="hero-cover home-cover">
+    <h1 class="hero-tagline">Backspace is a startup studio driven by technology. Together we build complex technologies into commercial companies.</h1>
     {% include signup.html %}
   </div>
 
-  <div class="home-intro darker stacked">
+  <div class="content-block darker stacked">
     <div class="home-text">
       <h2>Backspace is a company that builds tech companies</h2>
       <p>
@@ -17,11 +17,11 @@ title: Backbase studio
     </div>
   </div>
 
-  <div class="home-intro">
-    <div class="home-img">
+  <div class="content-block">
+    <div class="content-block-img">
       <img src="/img/content/home/illustration-1-temp.png" alt="Technology pushes humanity forward">
     </div>
-    <div class="home-text">
+    <div class="content-block-text">
       <h2>Technology pushes humanity forward</h2>
       <p>
         One thing in history has consistently increased human wellbeing. The progress of technology. It’s what pushes humanity forward. That’s why we use technology to make the world a little better. It’s what we call ‘creating positive impact’. To disrupt is to change things for the better.
@@ -29,23 +29,23 @@ title: Backbase studio
     </div>
   </div>
 
-  <div class="home-intro darker">
-    <div class="home-text">
+  <div class="content-block darker">
+    <div class="content-block-text">
       <h2>Using technology to create positive impact</h2>
       <p>
         Experience has shown us repeatable elements in building a tech startup. Based on these insights we’ve developed an analytical process, which we call the ‘venture creation flow’. Success and failure will continu to improve the steps in building a company. We will build several companies in parallel, but always with a dedicated founder from our studio.
       </p>
     </div>
-    <div class="home-img">
+    <div class="content-block-img">
       <img src="/img/content/home/illustration-2-temp.png" alt="Using technology to create positive impact">
     </div>
   </div>
 
-  <div class="home-intro stacked">
-    <div class="home-img">
+  <div class="content-block stacked">
+    <div class="content-block-img">
       <img src="/img/content/home/illustration-3-temp.png" alt="The perfect co-founder of a seed stage startup">
     </div>
-    <div class="home-text">
+    <div class="content-block-text">
       <h2>The perfect co-founder of a seed stage startup</h2>
       <p>
         As a studio we co-found a startup with an entrepreneur who is a specialist in his field. We build the startup from idea to product/market fit over a period of 24 months.  This makes them ready for growth investment (Series A). After this period we deliver an independent startup with traction, a complete team and a working product.
@@ -55,15 +55,15 @@ title: Backbase studio
 
   <div class="home-journal darker">
     <h2>Our Journal</h2>
-    <div class="home-journal-posts">
+    <div class="content-block-grid home-journal-posts">
       {% for post in site.posts %}
-      <div class="post">
-        <a href="{{ post.url }}" style="background-image: url({{ post.cover }})">
+      <div class="grid-item post">
+        <a href="{{ post.url }}" class="grid-item-img" style="background-image: url({{ post.cover }})">
           <div class="post-title">
           {{ post.title }}
           </div>
         </a>
-        <p class="post-summary">{{ post.summary }}</p>
+        <p class="grid-item-desc">{{ post.summary }}</p>
       </div>
       {% endfor %}
     </div>
