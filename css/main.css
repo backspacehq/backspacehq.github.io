@@ -495,6 +495,9 @@ footer.site-footer {
     font-weight: 700;
     font-style: normal; }
 
+.people-cover {
+  background-image: url(/img/content/people/office.jpg); }
+
 .icon {
   text-decoration: none; }
 
@@ -522,7 +525,7 @@ footer.site-footer {
 #contact .get-in-touch {
   margin: 80px 0;
   text-align: center; }
-  #contact .get-in-touch h3 {
+  #contact .get-in-touch p.intro {
     color: white;
     font-size: 200%; }
   #contact .get-in-touch p {
@@ -584,7 +587,7 @@ footer.site-footer {
   color: #4FE399; }
 
 @media screen and (max-width: 768px) {
-  #contact .get-in-touch h3 {
+  #contact .get-in-touch p.intro {
     font-size: 100%; }
   #contact .get-in-touch p {
     font-size: 200%; }
@@ -595,6 +598,8 @@ footer.site-footer {
             flex: 1 100%; } }
 
 @media screen and (max-width: 480px) {
+  #contact .get-in-touch p.intro {
+    font-size: 100%; }
   #contact .get-in-touch p {
     font-size: 120%; }
   #contact .map {
