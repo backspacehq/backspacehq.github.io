@@ -1,0 +1,91 @@
+---
+layout: modal
+title: Contact
+---
+
+<div id="contact">
+
+  <div class="get-in-touch">
+    <h3>Get in touch:</h3>
+    <p><a href="mailto:hello@backspace.studio">hello@backspace.studio</a></p>
+  </div>
+
+  <div class="map-wrapper">
+
+    <div class="map" id="map">
+    </div>
+
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&signed_in=true&callback=initMap"></script>
+
+
+    <div class="contact-wrapper">
+      <div class="contact-address vcard">
+        <p class="fn"><a class="url" href="https://www.backspace.studio">Backspace BV</a><p>
+        <p class="adr">
+          <span class="street-address">Johan Huizingalaan 763A</span><br>
+          <span class="postal-code">1066 VH</span> <span class="region">Amsterdam</span><br>
+          <span class="country-name">The Netherlands</span>
+        </p>
+        <p class="tel">+31 (0)20 2614663</p>
+      </div>
+
+      <div class="contact-social">
+        <a href="https://twitter.com/{{ site.twitter_username }}" class="icon icon-twitter-square"></a>
+        <a href="https://facebook.com/{{ site.facebook_username }}" class="icon icon-facebook-square"></a>
+        <a href="https://github.com/{{ site.github_username }}" class="icon icon-github-square"></a>
+        <a href="https://dribbble.com/{{ site.dribbble_username }}" class="icon icon-dribbble-24"></a>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+function initMap() {
+  var customMapType = new google.maps.StyledMapType([
+      {
+        stylers: [
+          {hue: '#000'},
+          {visibility: 'simplified'},
+          {gamma: 0.5},
+          {weight: 0.5}
+        ]
+      },
+      {
+        elementType: 'labels',
+        stylers: [{visibility: 'off'}]
+      },
+      {
+        featureType: 'water',
+        stylers: [{color: '#4FE399'}]
+      }
+    ], {
+      name: 'Backspace Style'
+  });
+  var customMapTypeId = 'backspace_style';
+
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 12,
+    center: {lat: 52.35, lng: 4.9166667},  // Amsterdam
+    mapTypeControlOptions: {
+      mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
+    }
+  });
+
+  map.mapTypes.set(customMapTypeId, customMapType);
+  map.setMapTypeId(customMapTypeId);
+
+  var image = '/img/pin.svg';
+  var beachMarker = new google.maps.Marker({
+    position: {lat: 52.35, lng: 4.9166667},
+    map: map,
+    icon: image
+  });
+}
+
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgExnJPVw9BRq3-6gNaB6J5nZcLGeCPjM&signed_in=true&callback=initMap"></script>

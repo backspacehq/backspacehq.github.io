@@ -11,10 +11,14 @@ $break-xlarge: 1800px;
 // Colors
 $base-green: #4FE399;
 $base-grey: #F7F7F7;
+$dark-grey: #333333;
+$base-black: black;
 
 @import
-        "base",
-        "layout",
-        "home",
-        "syntax"
+  "reset",
+  "icons",
+  "base",
+  "layout",
+  "home",
+  "contact"
 ;

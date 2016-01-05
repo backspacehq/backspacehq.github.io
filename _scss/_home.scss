@@ -33,7 +33,7 @@
     flex-direction: column;
   }
 
-  padding: 66px;
+  padding: 4%;
 
   &.stacked {
     text-align: center;
@@ -110,6 +110,11 @@
     opacity: 1.0;
     padding: 12% 10%;
     box-sizing:  border-box;
+
+    @media screen and (max-width: $break-large) {
+      font-size: 120%;
+    }
+
   }
 
   @media screen and (max-width: $break-medium) {
