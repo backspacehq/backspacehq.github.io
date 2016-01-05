@@ -240,7 +240,12 @@ footer.site-footer {
   .site-navigation .site-title {
     font-family: "ocr-a-std", Verdana, sans-serif;
     font-size: 140%;
-    color: #4FE399; }
+    color: #4FE399;
+    background: url("/img/backspace-logo.svg") 0px 0px no-repeat;
+    text-indent: -9999px;
+    display: inline-block;
+    width: 181px;
+    height: 22px; }
   .site-navigation .site-nav a {
     display: inline-block;
     line-height: 60px;
