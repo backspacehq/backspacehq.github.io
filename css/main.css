@@ -449,7 +449,8 @@ footer.site-footer {
   background: transparent;
   opacity: 1.0;
   padding: 12% 10%;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  text-indent: 0; }
   @media screen and (max-width: 1200px) {
     .home-journal-posts .post-title {
       font-size: 120%; } }
