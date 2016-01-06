@@ -185,12 +185,6 @@ input[type=submit], button {
   background-color: black;
   color: white; }
 
-#site-content {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex; }
-
 footer.site-footer {
   display: -webkit-box;
   display: -webkit-flex;
@@ -366,7 +360,11 @@ footer.site-footer {
       -ms-flex-pack: distribute;
           justify-content: space-around;
   text-align: center;
-  margin-top: 40px; }
+  margin-top: 40px;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  width: 100%; }
   @media screen and (max-width: 768px) {
     .content-block-grid {
       -webkit-box-orient: vertical;
@@ -379,7 +377,9 @@ footer.site-footer {
               flex-wrap: wrap; } }
 
 .grid-item {
-  margin: 0 3%; }
+  margin: 0 3%;
+  min-width: 140px;
+  max-width: 280px; }
   .grid-item .grid-item-title {
     background-position: center center;
     background-size: contain;
@@ -394,13 +394,12 @@ footer.site-footer {
     background-color: #F0F0F0;
     background-size: cover;
     position: relative;
+    background-repeat: no-repeat;
     width: 100%;
-    min-height: 200px; }
+    min-height: 200px;
+    text-indent: -9999px; }
   .grid-item .grid-item-desc {
     margin: 20px 0; }
-
-#home {
-  width: 100%; }
 
 .home-cover {
   background-image: url("/img/content/home/header-photo-temp.jpg"); }
@@ -497,6 +496,19 @@ footer.site-footer {
 
 .people-cover {
   background-image: url(/img/content/people/office.jpg); }
+
+.people-grid .grid-item {
+  margin: 0px 5%; }
+  .people-grid .grid-item .grid-item-img {
+    background-color: inherit;
+    border: none;
+    background-size: contain; }
+
+.get-in-touch-grid .grid-item .grid-item-img {
+  background-color: #4FE399;
+  border: none;
+  background-size: contain;
+  background-position: center; }
 
 .icon {
   text-decoration: none; }

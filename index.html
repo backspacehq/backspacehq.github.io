@@ -1,71 +1,70 @@
 ---
 layout: default
 title: Backbase studio
+class: home
 ---
-<div id="home">
-  <div class="hero-cover home-cover">
-    <h1 class="hero-tagline">Backspace is a startup studio driven by technology. A company that builds tech companies.</h1>
-    {% include signup.html %}
-  </div>
+<div class="hero-cover home-cover">
+  <h1 class="hero-tagline">Backspace is a startup studio driven by technology. A company that builds tech companies.</h1>
+  {% include signup.html %}
+</div>
 
-  <div class="content-block darker stacked">
-    <div class="home-text">
-      <h2>Rethink. Rebuild. Repeat.</h2>
-      <p>
-        Turning complex technologies into commercial companies. We combine skills and capital to rapidly execute on an emerging technology. It’s a place where multiple ideas are build to product/market fit in parallel. Following an analytical flow to learn and drive repeated succes. After this seed stage, our startups debut as independent companies.
-      </p>
-    </div>
+<div class="content-block darker stacked">
+  <div class="home-text">
+    <h2>Rethink. Rebuild. Repeat.</h2>
+    <p>
+      Turning complex technologies into commercial companies. We combine skills and capital to rapidly execute on an emerging technology. It’s a place where multiple ideas are build to product/market fit in parallel. Following an analytical flow to learn and drive repeated succes. After this seed stage, our startups debut as independent companies.
+    </p>
   </div>
+</div>
 
-  <div class="content-block">
-    <div class="content-block-img">
-      <img src="/img/content/home/illustration-1-temp.png" alt="Technology pushes humanity forward">
-    </div>
-    <div class="content-block-text">
-      <h2>Technology pushes humanity forward.</h2>
-      <p>
-        One thing in history has consistently increased human wellbeing. The progress of technology. It’s what pushes humanity forward. That’s why we use technology to make the world a little better. It’s what we call ‘creating positive impact’. To disrupt is to change things for the better.
-      </p>
-    </div>
+<div class="content-block">
+  <div class="content-block-img">
+    <img src="/img/content/home/illustration-1-temp.png" alt="Technology pushes humanity forward">
   </div>
-
-  <div class="content-block darker">
-    <div class="content-block-text">
-      <h2>Following a process for progress.</h2>
-      <p>
-        Our experience as entrepreneurs has taught us that progress comes from one main thing. The right combination of technology, design and traction. This is what moves things forward. We follow a structured process to get from an idea to a product and move on to become a company. Or even lead a new industry. This venture flow will improve with every startup we do.
-      </p>
-    </div>
-    <div class="content-block-img">
-      <img src="/img/content/home/illustration-2-temp.png" alt="Using technology to create positive impact">
-    </div>
+  <div class="content-block-text">
+    <h2>Technology pushes humanity forward.</h2>
+    <p>
+      One thing in history has consistently increased human wellbeing. The progress of technology. It’s what pushes humanity forward. That’s why we use technology to make the world a little better. It’s what we call ‘creating positive impact’. To disrupt is to change things for the better.
+    </p>
   </div>
+</div>
 
-  <div class="content-block stacked">
-    <div class="content-block-img">
-      <img src="/img/content/home/illustration-3-temp.png" alt="The perfect co-founder of a seed stage startup">
-    </div>
-    <div class="content-block-text">
-      <h2>The perfect co-founder of a seed stage startup.</h2>
-      <p>
-        It all starts with an specialist entrepreneur and a big idea. Our studio adds skills and capital where needed. Building the product, getting traction and making it spin. This improves the chance of a startup getting through the rollercoaster. Our startup studio goes by the name Backspace. It’s our favourite key on the keyboard.
-      </p>
-    </div>
+<div class="content-block darker">
+  <div class="content-block-text">
+    <h2>Following a process for progress.</h2>
+    <p>
+      Our experience as entrepreneurs has taught us that progress comes from one main thing. The right combination of technology, design and traction. This is what moves things forward. We follow a structured process to get from an idea to a product and move on to become a company. Or even lead a new industry. This venture flow will improve with every startup we do.
+    </p>
   </div>
+  <div class="content-block-img">
+    <img src="/img/content/home/illustration-2-temp.png" alt="Using technology to create positive impact">
+  </div>
+</div>
 
-  <div class="home-journal darker">
-    <h2>Our Journal</h2>
-    <div class="content-block-grid home-journal-posts">
-      {% for post in site.posts %}
-      <div class="grid-item post">
-        <a href="{{ post.url }}" class="grid-item-img" style="background-image: url({{ post.cover }})">
-          <div class="post-title">
-          {{ post.title }}
-          </div>
-        </a>
-        <p class="grid-item-desc">{{ post.summary }}</p>
-      </div>
-      {% endfor %}
+<div class="content-block stacked">
+  <div class="content-block-img">
+    <img src="/img/content/home/illustration-3-temp.png" alt="The perfect co-founder of a seed stage startup">
+  </div>
+  <div class="content-block-text">
+    <h2>The perfect co-founder of a seed stage startup.</h2>
+    <p>
+      It all starts with an specialist entrepreneur and a big idea. Our studio adds skills and capital where needed. Building the product, getting traction and making it spin. This improves the chance of a startup getting through the rollercoaster. Our startup studio goes by the name Backspace. It’s our favourite key on the keyboard.
+    </p>
+  </div>
+</div>
+
+<div class="home-journal darker">
+  <h2>Our Journal</h2>
+  <div class="content-block-grid home-journal-posts">
+    {% for post in site.posts %}
+    <div class="grid-item post">
+      <a href="{{ post.url }}" class="grid-item-img" style="background-image: url({{ post.cover }})">
+        <div class="post-title">
+        {{ post.title }}
+        </div>
+      </a>
+      <p class="grid-item-desc">{{ post.summary }}</p>
     </div>
+    {% endfor %}
   </div>
 </div>
