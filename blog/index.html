@@ -3,7 +3,34 @@ layout: default
 title: Blog
 ---
 
-<div class="hero-cover people-cover">
+<div class="hero-cover blog-cover">
   <h1 class="hero-tagline">Pellentesque quis augue a sapien auctor ornare. Etiam maximus laoreet lectus. Vivamus posuere ut orci.</h1>
   {% include signup.html %}
+</div>
+
+
+
+<div class="content-block darker stacked">
+  <div class="content-block-text">
+    <p>
+      Keeping you informed on all things Backspace.
+    </p>
+  </div>
+
+  <div class="content-block-grid blog-grid">
+
+    {% for post in site.posts %}
+    <a href="{{ post.url }}" class="grid-item">
+      <div class="grid-item-img" style="background-image: url({{ post.cover }})">
+        {{ post.title }}
+      </div>
+      <div class="grid-item-desc">
+        #{{ post.category }}<br>
+        <strong>{{ post.summary }}</strong>
+      </div>
+    </a>
+    {% endfor %}
+
+  </div>
+
 </div>

@@ -68,6 +68,7 @@
   margin: 0 3%;
   min-width: 140px;
   max-width: 280px;
+  margin-bottom: 40px;
 
   .grid-item-title {
     background-position: center center;
@@ -81,6 +82,7 @@
 
   .grid-item-img {
     border: 1px solid #E6E6E6;
+    border-top: 0;
     box-sizing: border-box;
     background-color: $medium-grey;
     background-size: cover;
@@ -92,7 +94,7 @@
   }
 
   .grid-item-desc {
-    margin: 20px 0;
+    padding: 22px 0;
   }
 
 }

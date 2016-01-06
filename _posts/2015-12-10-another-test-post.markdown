@@ -3,8 +3,8 @@ layout: post
 title:  "Another Test Post"
 summary: "The internet just turned 25. This is a big moment, but we’re only getting started."
 date:   2015-12-10 09:11:03
-categories: projects
-cover: /img/content/journal/journal-photo-2-temp.jpg
+category: startups
+cover: /img/content/blog/blog-header-3.jpg
 ---
 
 # Powering the internet of everything.

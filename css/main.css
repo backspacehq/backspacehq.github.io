@@ -379,7 +379,8 @@ footer.site-footer {
 .grid-item {
   margin: 0 3%;
   min-width: 140px;
-  max-width: 280px; }
+  max-width: 280px;
+  margin-bottom: 40px; }
   .grid-item .grid-item-title {
     background-position: center center;
     background-size: contain;
@@ -390,6 +391,7 @@ footer.site-footer {
     margin-bottom: 22px; }
   .grid-item .grid-item-img {
     border: 1px solid #E6E6E6;
+    border-top: 0;
     box-sizing: border-box;
     background-color: #F0F0F0;
     background-size: cover;
@@ -399,7 +401,7 @@ footer.site-footer {
     min-height: 200px;
     text-indent: -9999px; }
   .grid-item .grid-item-desc {
-    margin: 20px 0; }
+    padding: 22px 0; }
 
 .home-cover {
   background-image: url("/img/content/home/header-photo-temp.jpg"); }
@@ -509,6 +511,24 @@ footer.site-footer {
   border: none;
   background-size: contain;
   background-position: center; }
+
+.blog-cover {
+  background-image: url(/img/content/blog/temp-header-blog.jpg); }
+
+.blog-grid .grid-item {
+  display: inline-block;
+  min-width: 140px;
+  max-width: 424px;
+  color: black; }
+  .blog-grid .grid-item .grid-item-img {
+    min-height: 282px;
+    background-color: inherit;
+    border: none;
+    background-size: contain; }
+  .blog-grid .grid-item .grid-item-desc {
+    border: 1px solid #E6E6E6;
+    box-sizing: border-box;
+    background-color: #F0F0F0; }
 
 .icon {
   text-decoration: none; }
