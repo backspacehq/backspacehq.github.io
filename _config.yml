@@ -5,9 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Backspace is a startup studio driven by technology.
   Together we build complex technologies into commercial companies.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://disrupted.github.io" # the base hostname & protocol for your site
-twitter_username: disruptedvc
-github_username:  disrupted
+url: "http://backspacehq.github.io" # the base hostname & protocol for your site
+twitter_username: backspacehq
+github_username:  backspacehq
+facebook_username:  backspacehq
 markdown: redcarpet
 highlighter: pygments
 exclude: ["node_modules", "gulpfile.js", "package.json"]
