@@ -202,9 +202,6 @@ function initMap() {
             {
                 "color": "#000000"
             },
-            {
-                "lightness": 17
-            }
         ]
     }
 ], {
@@ -212,24 +209,41 @@ function initMap() {
   });
   var customMapTypeId = 'backspace_style';
 
+  var area = {lat: 52.3430396, lng: 4.8270865};
+  var address = "Johan Huizingalaan 763A, 1066 VH, Amsterdam"
+
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 12,
-    center: {lat: 52.35, lng: 4.9166667},  // Amsterdam
-    mapTypeControlOptions: {
-      mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
-    }
+    zoom: 15,
+    center: area,
+    zoomControl: true,
+    scaleControl: true,
+    mapTypeControl: false,
+    streetViewControl: false
   });
+  var geocoder = new google.maps.Geocoder();
 
   map.mapTypes.set(customMapTypeId, customMapType);
   map.setMapTypeId(customMapTypeId);
 
-  var image = '/img/pin.svg';
-  var beachMarker = new google.maps.Marker({
-    position: {lat: 52.35, lng: 4.9166667},
-    map: map,
-    icon: image
+  geocodeAddress(address, geocoder, map);
+
+}
+
+function geocodeAddress(address, geocoder, resultsMap) {
+  geocoder.geocode({'address': address}, function(results, status) {
+    if (status === google.maps.GeocoderStatus.OK) {
+      resultsMap.setCenter(results[0].geometry.location);
+      var image = '/img/pin.png';
+      var marker = new google.maps.Marker({
+        map: resultsMap,
+        position: results[0].geometry.location,
+        icon: image
+      });
+    } else {
+      alert('Geocode was not successful for the following reason: ' + status);
+    }
   });
 }
 
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgExnJPVw9BRq3-6gNaB6J5nZcLGeCPjM&signed_in=true&callback=initMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgExnJPVw9BRq3-6gNaB6J5nZcLGeCPjM&callback=initMap"></script>
