@@ -1,9 +1,19 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<div class="hero-cover post-cover" style="background-image: url({{ page.cover }})">
+  <h1 class="hero-tagline">{{ page.title }}</h1>
+</div>
+
+<div class="meta-block">
+  <div class="meta-block-img" style="background-image: url({{ page.author_image }})">
+    Jons Janssens
+  </div>
+  <div class="meta-block-meta">
+    By <strong>{{ page.author }}</strong> in <strong>#{{ page.category }}</strong>
+  </div>
+</div>
 
 <div class="post">
-{{ content }}
+  {{ content | remove: '<!--more-->'}}
 </div>

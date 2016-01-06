@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Test Post"
-summary: "The internet just turned 25. This is a big moment, but we’re only getting started."
+title:  "Powering the internet of everything."
+author: "Jons Janssens"
+author_image: /img/content/people/jons-janssens.png
+summary: >
+  The internet just turned 25. This is a big moment, but we’re only getting started.
 date:   2015-12-10 09:11:03
 category: sideprojects
 cover: /img/content/blog/blog-header-2.jpg
 ---
-
-
-# Powering the internet of everything.
 
 The internet just turned 25. This is a big moment, but we’re only getting started. After putting a super computer in everyone’s pocket, other things around us will be connected to the internet as well. People and machines will be able to interact with the physical things around them in a whole new way. Machines will be able to talk machines and sensors will generate vast amounts of data.
 
@@ -22,6 +22,13 @@ Here at the studio we’re passioned about technology and changing things for th
 
 Respect to our friend Wienke, who pulled this off in just a couple of weeks. I like this quote by him.
 
-    “If we leave this task up to big telcos, a subscription model will be enforced and we will exclude 99% of the cool use cases. Instead, let’s make it a publicly owned and free network so businesses and use cases will flourish on top of it„
+> If we leave this task up to big telcos, a subscription model will be enforced and we will exclude 99% of the cool use cases. Instead, let’s make it a publicly owned and free network so businesses and use cases will flourish on top of it
 
 Now that the data network and sensor technology are here, it’s time to build some briljant applications. Got ideas? Get in touch.
+
+Want to know more?
+
+  - The video
+  - [The website](http://thethingsnetwork.com)
+  - The press release.
+  - More about ‘Internet of things’ by HBR.
