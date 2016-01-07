@@ -330,7 +330,8 @@ footer.site-footer {
     padding-bottom: 0; }
   .content-block .content-block-img {
     max-width: 100%;
-    padding: 44px; }
+    padding: 44px;
+    box-sizing: border-box; }
     .content-block .content-block-img img {
       max-width: 100%; }
 
@@ -385,6 +386,7 @@ footer.site-footer {
     background-size: cover;
     position: relative;
     background-repeat: no-repeat;
+    background-position: center;
     width: 100%;
     min-height: 200px;
     text-indent: -9999px; }
@@ -494,6 +496,11 @@ footer.site-footer {
     background-color: inherit;
     border: none;
     background-size: contain; }
+
+.people-startups-grid .grid-item .grid-item-img {
+  background-color: inherit;
+  border: none;
+  background-size: contain; }
 
 .get-in-touch-grid .grid-item .grid-item-img {
   background-color: #4FE399;

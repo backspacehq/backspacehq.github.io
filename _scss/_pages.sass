@@ -22,13 +22,18 @@
   @media screen and (max-width: $break-medium)
     flex-direction: column
   padding: 4% 6%
+
   &.stacked
     text-align: center
+
   &.no-bottom-padding
     padding-bottom: 0
+
   .content-block-img
     max-width: 100%
     padding: 44px
+    box-sizing: border-box
+
     img
       max-width: 100%
 
@@ -65,6 +70,7 @@
     background-size: cover
     position: relative
     background-repeat: no-repeat
+    background-position: center
     width: 100%
     min-height: 200px
     text-indent: -9999px
