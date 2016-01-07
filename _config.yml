@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://backspacehq.github.io" # the base hostname & protocol for your site
 twitter_username: backspacehq
 github_username:  backspacehq
-facebook_username:  backspacehq
+facebook_username:  Backspace-959766040737542
 markdown: redcarpet
 highlighter: pygments
 exclude: ["node_modules", "gulpfile.js", "package.json"]
