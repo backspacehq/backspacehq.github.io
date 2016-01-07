@@ -1,0 +1,83 @@
+#site-container
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  margin: 0 auto
+  background-color: white
+
+/* Modal page layout */
+#modal .site-header
+  border-bottom: 1px solid $dark-grey
+
+#modal #site-container
+  background-color: $base-black
+  color: white
+
+footer.site-footer
+  display: flex
+  flex-direction: column
+  align-items: center
+  background-color: black
+  padding-bottom: 2em
+  .footer-copyright
+    line-height: 3em
+    font-size: 90%
+    color: #f0f0f0
+    text-align: center
+
+.site-navigation
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+  align-items: center
+  margin: 0 auto
+  padding: 0 22px
+  box-sizing: border-box
+  width: 100%
+  min-height: 60px
+  background-color: black
+  a
+    text-decoration: none
+    color: white
+    line-height: 60px
+  .site-title
+    font-family: "ocr-a-std", Verdana, sans-serif
+    font-size: 140%
+    color: $base-green
+    background: url("/img/backspace-logo.svg") 0px 0px no-repeat
+    text-indent: -9999px
+    display: inline-block
+    width: 181px
+    height: 22px
+  .site-nav
+    a
+      display: inline-block
+      line-height: 60px
+      margin-left: 30px
+      border-top: 2px solid transparent
+    a.active
+      color: $base-green
+      border-top: 2px solid $base-green
+
+.site-form-signup
+  min-width: 50%
+  max-width: 450px
+  display: flex
+  flex-direction: row
+  justify-content: center
+  input[type=email]
+    width: 70%
+    border-radius: 8px 0px 0px 8px
+    border: none
+  input[type=submit]
+    background: $base-green
+    border-radius: 0px 8px 8px 0px
+    border: none
+
+@media screen and (min-width: $break-large)
+  #site-container, .site-navigation
+    max-width: $break-large
+
+@media screen and (min-width: $break-xlarge)
+  #site-container, .site-navigation
+    max-width: $break-xlarge
