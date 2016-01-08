@@ -3,6 +3,7 @@ var browserSync = require('browser-sync');
 var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
+var minifyCss = require('gulp-minify-css');
 
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -45,6 +46,7 @@ gulp.task('sass', function () {
             onError: browserSync.notify
         }))
         .pipe(prefix(['last 3 versions', '> 2%', 'ie 9'], { cascade: true }))
+        .pipe(minifyCss())
         .pipe(gulp.dest('_site/css'))
         .pipe(browserSync.reload({stream:true}))
         .pipe(gulp.dest('css'));
