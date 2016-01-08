@@ -165,14 +165,6 @@ input[type=submit], button {
   margin: 0 auto;
   background-color: white; }
 
-/* Modal page layout */
-#modal .site-header {
-  border-bottom: 1px solid #333333; }
-
-#modal #site-container {
-  background-color: black;
-  color: white; }
-
 footer.site-footer {
   display: -webkit-box;
   display: -webkit-flex;
@@ -235,7 +227,7 @@ footer.site-footer {
   .site-navigation .site-nav a {
     display: inline-block;
     line-height: 60px;
-    margin-left: 30px;
+    margin: 0 15px;
     border-top: 2px solid transparent; }
   .site-navigation .site-nav a.active {
     color: #4FE399;
@@ -266,6 +258,24 @@ footer.site-footer {
     border-radius: 0px 8px 8px 0px;
     border: none; }
 
+@media screen and (max-width: 768px) {
+  .site-navigation {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    font-size: 90%;
+    padding: 0; }
+    .site-navigation .site-title {
+      margin-top: 1em; }
+    .site-navigation .site-nav a {
+      margin: 0 12px; } }
+
 @media screen and (min-width: 1200px) {
   #site-container, .site-navigation {
     max-width: 1200px; } }
@@ -273,6 +283,14 @@ footer.site-footer {
 @media screen and (min-width: 1800px) {
   #site-container, .site-navigation {
     max-width: 1800px; } }
+
+/* Modal page layout */
+#modal .site-header {
+  border-bottom: 1px solid #333333; }
+
+#modal #site-container {
+  background-color: black;
+  color: white; }
 
 .hero-cover {
   display: -webkit-box;
@@ -361,9 +379,10 @@ footer.site-footer {
       -webkit-flex-direction: column;
           -ms-flex-direction: column;
               flex-direction: column;
-      -webkit-flex-wrap: wrap;
-          -ms-flex-wrap: wrap;
-              flex-wrap: wrap; } }
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; } }
 
 .grid-item {
   margin: 0 3%;

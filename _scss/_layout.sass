@@ -5,14 +5,6 @@
   margin: 0 auto
   background-color: white
 
-/* Modal page layout */
-#modal .site-header
-  border-bottom: 1px solid $dark-grey
-
-#modal #site-container
-  background-color: $base-black
-  color: white
-
 footer.site-footer
   display: flex
   flex-direction: column
@@ -53,7 +45,7 @@ footer.site-footer
     a
       display: inline-block
       line-height: 60px
-      margin-left: 30px
+      margin: 0 15px
       border-top: 2px solid transparent
     a.active
       color: $base-green
@@ -74,6 +66,19 @@ footer.site-footer
     border-radius: 0px 8px 8px 0px
     border: none
 
+@media screen and (max-width: $break-medium)
+  .site-navigation
+    flex-direction: column
+    justify-content: center
+    font-size: 90%
+    padding: 0
+
+    .site-title
+      margin-top: 1em
+
+    .site-nav a
+        margin: 0 12px
+
 @media screen and (min-width: $break-large)
   #site-container, .site-navigation
     max-width: $break-large
@@ -81,3 +86,12 @@ footer.site-footer
 @media screen and (min-width: $break-xlarge)
   #site-container, .site-navigation
     max-width: $break-xlarge
+
+
+/* Modal page layout */
+#modal .site-header
+  border-bottom: 1px solid $dark-grey
+
+#modal #site-container
+  background-color: $base-black
+  color: white
