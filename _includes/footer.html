@@ -1,6 +1,9 @@
 <footer class="site-footer">
   {% include navigation.html %}
-  {% include signup.html %}
+  <form class="site-form-signup" action="https://www.getrevue.co/profile/disrupted/add_subscriber" method="POST" target="_blank">
+    <input type="email" name="member[email]" required placeholder="Sign up for our newsletter">
+    <input type="submit" name="member[subscribe]" value="sign up">
+  </form>
   <div class="footer-copyright">
     Copyright © 2016 Backspace. All rights reserved.
   </div>
