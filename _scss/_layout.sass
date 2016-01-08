@@ -11,6 +11,22 @@ footer.site-footer
   align-items: center
   background-color: black
   padding-bottom: 2em
+
+  .site-footer-sub
+    width: 90%
+    max-width: 600px
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: center
+
+    .contact-social a
+      color: white
+      margin-right: 12px
+
+    .contact-social a:hover
+      color: $base-green
+
   .footer-copyright
     line-height: 3em
     font-size: 90%
@@ -47,13 +63,17 @@ footer.site-footer
       line-height: 60px
       margin: 0 15px
       border-top: 2px solid transparent
+
     a.active
       color: $base-green
       border-top: 2px solid $base-green
 
+    a:hover
+      color: $base-green
+
 .site-form-signup
-  min-width: 50%
-  max-width: 450px
+  width: 90%
+  max-width: 600px
   display: flex
   flex-direction: row
   justify-content: center
@@ -81,6 +101,11 @@ footer.site-footer
 
     .site-nav a.active
         border: none
+
+  footer.site-footer .site-footer-sub
+      flex-direction: column-reverse
+
+
 
 @media screen and (min-width: $break-large)
   #site-container, .site-navigation
