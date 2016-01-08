@@ -274,7 +274,9 @@ footer.site-footer {
     .site-navigation .site-title {
       margin-top: 1em; }
     .site-navigation .site-nav a {
-      margin: 0 12px; } }
+      margin: 0 12px; }
+    .site-navigation .site-nav a.active {
+      border: none; } }
 
 @media screen and (min-width: 1200px) {
   #site-container, .site-navigation {
