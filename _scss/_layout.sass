@@ -1,9 +1,14 @@
-#site-container
+.site-container
+  background-color: white
   display: flex
   flex-direction: column
-  justify-content: space-between
-  margin: 0 auto
-  background-color: white
+
+.wrapper
+  width: 100%
+  max-width: $break-large
+  display: flex
+  flex-direction: column
+  align-items: center
 
 footer.site-footer
   display: flex
@@ -44,10 +49,12 @@ footer.site-footer
   width: 100%
   min-height: 60px
   background-color: black
+
   a
     text-decoration: none
     color: white
     line-height: 60px
+
   .site-title
     font-family: "ocr-a-std", Verdana, sans-serif
     font-size: 140%
@@ -57,6 +64,7 @@ footer.site-footer
     display: inline-block
     width: 181px
     height: 22px
+
   .site-nav
     a
       display: inline-block
@@ -77,10 +85,12 @@ footer.site-footer
   display: flex
   flex-direction: row
   justify-content: center
+
   input[type=email]
     width: 70%
     border-radius: 8px 0px 0px 8px
     border: none
+
   input[type=submit]
     background: $base-green
     border-radius: 0px 8px 8px 0px
@@ -108,18 +118,14 @@ footer.site-footer
 
 
 @media screen and (min-width: $break-large)
-  #site-container, .site-navigation
+  .site-navigation
     max-width: $break-large
-
-@media screen and (min-width: $break-xlarge)
-  #site-container, .site-navigation
-    max-width: $break-xlarge
 
 
 /* Modal page layout */
 #modal .site-header
   border-bottom: 1px solid $dark-grey
 
-#modal #site-container
+#modal .site-container
   background-color: $base-black
   color: white

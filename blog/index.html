@@ -2,31 +2,32 @@
 layout: default
 title: Blog
 ---
-<div class="hero-cover blog-cover">
-</div>
 
 <div class="content-block darker stacked">
-  <div class="content-block-text">
-    <h2>Backspace Journal</h2>
-    <p>
-      Keeping you informed on all things Backspace.
-    </p>
+  <div class="wrapper">
+
+    <div class="content-block-text">
+      <h2>Backspace Journal</h2>
+      <p>
+        Keeping you informed on all things Backspace.
+      </p>
+    </div>
+
+    <div class="content-block-grid blog-grid">
+
+      {% for post in site.posts %}
+      <a href="{{ post.url }}" class="grid-item">
+        <div class="grid-item-img" style="background-image: url({{ post.cover }})">
+          {{ post.title }}
+        </div>
+        <div class="grid-item-desc">
+          #{{ post.category }}<br>
+          <strong>{{ post.summary }}</strong>
+        </div>
+      </a>
+      {% endfor %}
+
+    </div>
+
   </div>
-
-  <div class="content-block-grid blog-grid">
-
-    {% for post in site.posts %}
-    <a href="{{ post.url }}" class="grid-item">
-      <div class="grid-item-img" style="background-image: url({{ post.cover }})">
-        {{ post.title }}
-      </div>
-      <div class="grid-item-desc">
-        #{{ post.category }}<br>
-        <strong>{{ post.summary }}</strong>
-      </div>
-    </a>
-    {% endfor %}
-
-  </div>
-
 </div>
