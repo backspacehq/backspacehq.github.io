@@ -32,8 +32,16 @@
 #contact .map
   flex: 1 50%;
 
+#contact .map-links
+  display: flex
+  flex-direction: row
+  justify-content: space-around
+  margin: 18px 0
+  display: none
+
 #contact .contact-wrapper
   flex: 1 50%;
+  color: #fff
 
 #contact .contact-wrapper .vcard
   border-bottom: 1px solid $dark-grey;
@@ -74,3 +82,7 @@
 
   #contact .map
     display: none
+
+  #contact .map-links
+    display: block
+
