@@ -7,6 +7,9 @@
   background-color: black
   background-size: cover
 
+  @media screen and (max-width: $break-medium)
+    min-height: inherit
+
   .wrapper
     text-align: center
 
@@ -28,7 +31,7 @@
 
   .wrapper
     box-sizing: border-box
-    padding: 66px 6%
+    padding: 66px 0
     flex-direction: row
 
     @media screen and (max-width: $break-medium)
@@ -37,6 +40,11 @@
 
     &.no-bottom-padding
       padding-bottom: 0
+
+    .content-block-text
+      padding: 0 6%
+      p
+        margin: .8em 0
 
     .content-block-img
       max-width: 100%

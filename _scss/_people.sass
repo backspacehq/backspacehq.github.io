@@ -1,10 +1,9 @@
 
 .people-cover
-  min-height: inherit
   background-color: #4FE39B
   padding: 60px
   img
-    width: 100%
+    max-width: 100%
 
   @media screen and (max-width: $break-medium)
     padding: 120px 10px 20px 10px
@@ -15,6 +14,13 @@
     background-color: inherit
     border: none
     background-size: contain
+
+  li.name
+    font-weight: 700
+    font-size: 110%
+
+  li.role
+    font-weight: 700
 
 .people-startups-grid .grid-item
   .grid-item-img
