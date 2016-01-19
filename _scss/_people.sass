@@ -1,11 +1,13 @@
 
 .people-cover
-  background-image: url(/img/content/people/cultuur.png);
-  background-size: contain
-  background-position: center
-  background-repeat: no-repeat
+  min-height: inherit
   background-color: #4FE39B
-  background-size: 70%
+  padding: 60px
+  img
+    width: 100%
+
+  @media screen and (max-width: $break-medium)
+    padding: 120px 10px 20px 10px
 
 .people-grid .grid-item
   margin: 0px 5%
