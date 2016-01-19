@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="backspace" sketch:type="MSLayerGroup" fill="#4FE399">
+            <path d="M24.626,74.672 L22.406,76.892 C21.781,77.518 20.767,77.518 20.142,76.892 L11.108,67.858 C10.482,67.233 10.482,66.219 11.108,65.594 L20.142,56.559 C20.767,55.934 21.781,55.934 22.406,56.559 L24.626,58.779 C25.252,59.404 25.252,60.418 24.626,61.044 L18.944,66.726 L24.626,72.408 C25.252,73.033 25.252,74.048 24.626,74.672 L24.626,74.672 Z M85.062,0.279 L2.66,0.279 C1.191,0.279 0,1.47 0,2.938 L0,85.341 C0,86.809 1.191,88 2.66,88 L85.062,88 C86.53,88 87.721,86.809 87.721,85.341 L87.721,2.938 C87.721,1.47 86.53,0.279 85.062,0.279 L85.062,0.279 Z" id="Fill-15" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
