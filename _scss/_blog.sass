@@ -42,23 +42,41 @@
     background-color: $base-grey
 
 .post
-  padding-top: 40px
-  padding-bottom: 140px
+  width: 100%
+  padding: 40px 0 140px 0
 
-  p
-    padding: 20px 140px
+  & > *
+    margin: 20px 140px
+
+    @media screen and (max-width: $break-large)
+      margin: 20px 60px
+
+    @media screen and (max-width: $break-medium)
+      margin: 20px 20px
+
+  p > img
+    max-width: 50%
+    display: inline
+    float: right
+    margin: 22px
 
   blockquote
-    padding: 20px 100px
+    margin: 40px 12px
     font-size: 200%
     font-style: italic
 
     p
-      padding: 0
+      margin: 0
 
   ul
-    padding: 0 140px
-    list-style: disc inside none;
+    list-style: disc inside none
 
-    li
-      padding-left: 20px
+  iframe
+    width: 100%
+    height: 600px
+
+    @media screen and (max-width: $break-medium)
+      height: 300px
+
+
+
