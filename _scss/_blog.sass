@@ -13,6 +13,20 @@
     background-color: inherit
     border: none
     background-size: contain
+    position: relative
+
+    &:before
+      content: " "
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+      display: inline-block
+      background-image: url(/img/header-overlay.png)
+      background-size: cover
+      background-repeat: no-repeat
+
 
   .grid-item-desc
     border: 1px solid #E6E6E6
