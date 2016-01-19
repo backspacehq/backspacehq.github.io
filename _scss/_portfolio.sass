@@ -1,10 +1,12 @@
-
 .portfolio-cover
-  background-image: url(/img/content/portfolio/header-portfolio.png);
-  background-size: contain
-  background-position: center
-  background-repeat: no-repeat
+  box-sizing: border-box
   background-color: #4FE39B
+  //padding: 40px 60px
+  img
+    max-width: 100%
+
+  @media screen and (max-width: $break-medium)
+    padding: 120px 10px 20px 10px
 
 .content-block-milestones
   display: flex
