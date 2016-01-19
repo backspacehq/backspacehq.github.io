@@ -4,9 +4,9 @@ title:  "Powering the internet of everything."
 author: "Jons Janssens"
 author_image: /img/content/people/jons-janssens.png
 summary: >
-  An open data network for the ‘internet of things’. Built and supported by the people for the people in Amsterdam.
+  An open data network for the ‘internet of things’.
 date:   2015-07-01 09:11:03
-category: startups
+category: friends
 cover: /img/content/blog/blog-header-3.jpg
 ---
 
