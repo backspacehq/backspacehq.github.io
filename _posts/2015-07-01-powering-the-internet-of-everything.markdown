@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powering the internet of everything."
+title:  "Powering the internet of everything"
 author: "Jons Janssens"
 author_image: /img/content/people/jons-janssens.png
 summary: >
