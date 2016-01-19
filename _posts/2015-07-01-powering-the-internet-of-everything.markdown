@@ -22,7 +22,7 @@ Respect to our friend Wienke, who pulled this off in just a couple of weeks. I l
 
 > “If we leave this task up to big telcos, a subscription model will be enforced and we will exclude 99% of the cool use cases. Instead, let’s make it a publicly owned and free network so businesses and use cases will flourish on top of it„
 
-Now that the data network and sensor technology are here, it’s time to build some briljant applications. Got ideas? Get in touch.
+Now that the data network and sensor technology are here, it’s time to build some brilliant applications. Got ideas? Get in touch.
 
 <p><iframe src="https://player.vimeo.com/video/136731514?color=000000&title=0&byline=0&portrait=0" width="1200" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
