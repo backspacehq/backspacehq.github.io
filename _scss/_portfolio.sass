@@ -18,6 +18,7 @@
   padding: 40px
   position: relative
   width: 50%
+  box-sizing: border-box
 
   .milestone-item-date
     font-weight: 300
@@ -38,7 +39,26 @@
     font-weight: 700
     font-style: normal
 
-  .milestone-item-desc
+  &:nth-child(even)
+    align-self: flex-start
+    text-align: right
+    border-right: 2px solid #999999
+    border-left: none
+    width: calc(50% + 2px)
+
+    .milestone-item-date:before
+      content: ""
+      display: block
+      position: absolute
+      width: 10px
+      height: 10px
+      top: 50px;
+      right: -6px;
+      left: inherit
+      background-image: url(/img/dot.svg)
+      background-size: contain
+
+
 
 .grid-item.portfolio
   .grid-item-desc
