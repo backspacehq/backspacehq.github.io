@@ -10,12 +10,12 @@ body
   font-weight: 300
   font-style: normal
   line-height: 1.6
-  background-color: $base-black
+  background-color: black
 
 h1, h2, h3, h4, h5, h6
-  font-family: $ocr
+  font-family: $sans-serif
   font-size: 100%
-  font-weight: 400
+  font-weight: 500
   font-style: normal
   color: $base-green
 
@@ -24,23 +24,27 @@ h1
   margin-bottom: 1em
   line-height: 1.5em
   @media screen and (max-width: $break-medium)
-    font-size: 180%
+    font-size: 200%
 
 h2
-  font-size: 120%
+  font-size: 160%
   text-transform: uppercase
   margin-bottom: 0.5em
   @media screen and (max-width: $break-medium)
-    font-size: 100%
+    font-size: 120%
 
 strong
-  font-weight: 700
+  font-weight: 400
   font-style: normal
 
 a
   color: $blue
   text-decoration: none
-  font-weight: 700
+  font-weight: 400
+
+p, li
+  font-style: normal
+  font-weight: 300
 
 a:hover
   color: $pink
@@ -62,8 +66,8 @@ input, button
     padding: 0px 10px
 
 input[type=submit], button, .button
-  font-family: $ocr
-  font-weight: 400
+  font-family: $sans-serif
+  font-weight: 500
   font-style: normal
 
 /* Exceptions */

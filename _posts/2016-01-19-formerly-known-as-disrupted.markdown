@@ -7,7 +7,7 @@ summary: >
   The studio formerly known as Disrupted, now goes by the name Backspace.
 date:   2016-01-19 14:00:03
 category: studio
-cover: /img/content/blog/blog-header-1.jpg
+cover: /img/content/blog/New-name.jpg
 ---
 
 The studio formerly known as Disrupted, now goes by the name Backspace. Why? Let me explain.

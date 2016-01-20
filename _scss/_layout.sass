@@ -17,14 +17,14 @@ footer.site-footer
   background-color: black
   padding-bottom: 2em
 
+  .site-navigation
+    margin-bottom: 2.4em
+
   .site-footer-sub
     margin-top: 1em
     width: 90%
     max-width: 600px
-    display: flex
-    flex-direction: row
-    justify-content: space-between
-    align-items: center
+    text-align: center
 
     .contact-social a
       color: white
@@ -32,12 +32,6 @@ footer.site-footer
 
     .contact-social a:hover
       color: $base-green
-
-  .footer-copyright
-    //line-height: 3em
-    font-size: 90%
-    color: #f0f0f0
-    text-align: center
 
 .site-header
   background-color: black
@@ -127,10 +121,6 @@ footer.site-footer
     .site-nav a.active
         border: none
 
-  footer.site-footer .site-footer-sub
-      flex-direction: column-reverse
-
-
 
 @media screen and (min-width: $break-large)
   .site-navigation
@@ -139,7 +129,7 @@ footer.site-footer
 
 /* Modal page layout */
 #modal .site-header
-  border-bottom: 1px solid $dark-grey
+  border-bottom: 1px solid $base-black
 
 #modal .site-container
   background-color: $base-black

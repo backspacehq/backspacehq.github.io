@@ -2,6 +2,8 @@
   .wrapper
     margin-top: 100px
 
+a.grid-item
+  font-weight: 300
 
 .blog-grid .grid-item
   display: inline-block
@@ -12,7 +14,7 @@
     min-height: 282px
     background-color: inherit
     border: none
-    background-size: contain
+    background-size: cover
     position: relative
 
     &:before
@@ -57,23 +59,27 @@
     z-index: 200
 
 .post
+  box-sizing: border-box
   width: 100%
-  padding: 40px 0 140px 0
+  padding: 40px 120px 140px 120px
 
   & > *
     margin: 20px 140px
 
-    @media screen and (max-width: $break-large)
-      margin: 20px 60px
-
-    @media screen and (max-width: $break-medium)
-      margin: 20px 20px
+  p, li
+    font-size: 1.2em
 
   p > img
-    max-width: 50%
-    display: inline
-    float: right
-    margin: 22px
+    width: calc(100% + 240px)
+    display: block
+    margin: 1em -120px
+
+  h2
+    margin-top: 60px
+    margin-bottom: 10px
+
+  h3
+    margin-top: 10px
 
   blockquote
     margin: 40px 12px
@@ -83,15 +89,28 @@
     p
       margin: 0
 
-  ul
-    list-style: disc inside none
+  ul li, ol li
+    margin-bottom: .6em
 
   iframe
     width: 100%
     height: 600px
 
-    @media screen and (max-width: $break-medium)
-      height: 300px
+  @media screen and (max-width: $break-large)
+    padding: 40px 80px 140px 80px
+    & > *
+      margin: 20px 60px
 
+  @media screen and (max-width: $break-medium)
+    padding: 40px 20px 140px 20px
+    & > *
+      margin: 20px 20px
+
+    p > img
+      width: 100%
+      margin: 1em 0
+
+    iframe
+      height: 300px
 
 
