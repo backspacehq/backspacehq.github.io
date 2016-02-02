@@ -17,6 +17,7 @@ We get pitched a lot as well. As a studio we invest, but mostly with our time an
 Here are some of the resources you need to read before pitching. Not just for investors, but also for your mom or even better your grandma. If they understand what you do and why you do it, you are on the right track.
 
 ## 1. The Pitchdeck
+
 ### An informative overview that inspires
 
 Start of by watching Simon Sinek tell how it is. We like his thinking. “[People don’t buy what you do, they buy why you do it](https://www.youtube.com/watch?v=u4ZoJKF_VuA)”.
@@ -50,12 +51,14 @@ Structuring your pitch. You can use these archetypes to get your story across. T
 
 
 ## 2. The Lean Canvas
+
 ### A business plan on one page
 
 Think big, but start small. This one-page canvas forces you to think about your plans and get your story straight. It covers all aspects of your business. We prefer the ‘[lean canvas](/downloads/Backspace_Lean canvas.jpg)’ over the ‘[business model canvas](http://leanstack.com/why-lean-canvas/)’. It’s better suited for the search phase of a startup, the other one is more directed towards established companies in the execute phase. No more kidding around, get down to business.
 
 
 ## 3. The Runway
+
 ### A financial overview for the next 18 months
 
 
@@ -70,7 +73,7 @@ Y Combinator is the leading accelerator in the world. They know how the cookie c
 * [The videos](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
 * [The Playbook](http://playbook.samaltman.com)
 
-Sign up at AngelList (https://angel.co). It’s a great place to get in touch with  like minded people, build your profile and even hiring is catching on. These [Pitching hacks](/downloads/Pitching_hacks_Venture hacks.pdf) (PDF) by are a good read as well.
+Sign up at [AngelList](https://angel.co). It’s a great place to get in touch with  like minded people, build your profile and even hiring is catching on. These [Pitching hacks](/downloads/Pitching_hacks_Venture hacks.pdf) (PDF) by are a good read as well.
 
 ### Smart people to follow
 

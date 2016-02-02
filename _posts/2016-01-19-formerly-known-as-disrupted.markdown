@@ -24,6 +24,6 @@ To new beginnings.
 
 Be well,
 
-Backspace<br>
+**Backspace**<br>
 A startup studio.<br>
 Rethink. Rebuild. Repeat.

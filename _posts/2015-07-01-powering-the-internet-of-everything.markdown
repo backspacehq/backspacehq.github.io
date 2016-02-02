@@ -26,7 +26,7 @@ Now that the data network and sensor technology are here, it’s time to build s
 
 <p><iframe src="https://player.vimeo.com/video/136731514?color=000000&title=0&byline=0&portrait=0" width="1200" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-Want to know more?
+### Want to know more?
 
   - [The website](http://thethingsnetwork.org/)
   - [The press release](http://thethingsnetwork.pr.co/108437-the-things-network-launches-world-s-first-crowdfunded-internet-of-things-data-network-in-amsterdam-and-the-world-is-next)
