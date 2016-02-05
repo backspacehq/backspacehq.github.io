@@ -45,40 +45,46 @@
   align-items: center
 
   .wrapper
-    box-sizing: border-box
-    padding: 66px 0
+    flex: 1
+    padding: 66px
     flex-direction: row
-
-    @media screen and (max-width: $break-medium)
-      flex-direction: column
-      align-items: center
+    justify-content: space-between
 
     &.no-bottom-padding
       padding-bottom: 0
 
     .content-block-text
-      padding: 0 6%
+      display: inline-block
+      flex: 2
       p
         margin: .8em 0
 
     .content-block-img
-      max-width: 100%
-      padding: 44px
-      box-sizing: border-box
+      flex: 1
 
-      @media screen and (max-width: $break-medium)
-        padding: 12px
-
-        img
-          width: 100%
+      img
+        width: 100%
 
   &.stacked
     .wrapper
       text-align: center
       flex-direction: column
 
-      @media screen and (max-width: $break-medium)
-        text-align: left
+
+@media screen and (max-width: $break-medium)
+  .content-block
+    .wrapper
+      flex-direction: column
+      align-items: center
+      div:first-child
+        margin-right: 0
+
+    &.stacked
+      text-align: left
+      .content-block-text
+        flex: auto
+      .content-block-img
+        flex: auto
 
 
 .content-block-grid

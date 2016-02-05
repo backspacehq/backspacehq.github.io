@@ -28,6 +28,10 @@
       padding-bottom: 0
 
 .content-block.why, .content-block.how, .content-block.what
+  .wrapper
+    div:first-child
+      margin-right: 44px
+
   h3
     background: $medium-grey
     display: inline-block
@@ -43,6 +47,8 @@
   align-items: center
 
   .wrapper
+    display: flex
+    flex-direction: column
     padding: 60px 0
     font-size: 90%
     h2
