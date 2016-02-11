@@ -56,11 +56,10 @@
     .content-block-text
       display: inline-block
       flex: 2
-      p
-        margin: .8em 0
+      padding: 0 .8em
 
     .content-block-img
-      flex: 1
+      padding: 0 .8em
 
       img
         width: 100%
@@ -74,6 +73,7 @@
 @media screen and (max-width: $break-medium)
   .content-block
     .wrapper
+      padding: 66px 0
       flex-direction: column
       align-items: center
       div:first-child
