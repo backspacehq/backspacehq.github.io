@@ -15,18 +15,3 @@ highlighter: rouge
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: pretty
 timezone: "Europe/Amsterdam"
-
-contentful:
-  spaces:
-    - blogPost: # Jekyll _data folder identifier - Required
-        space: 7eoeknsozsz8        # Required
-        access_token: c38020bea465e863e507e125cbd0ed35a0baa2e622a6980b365fee454a70ec40 # Required
-        # cda_query:                 # Optional
-        #   include: 2
-        #   limit: 100
-        # content_types:             # Optional
-        #   cat: MyCoolMapper
-        client_options:            # Optional
-          :preview: true
-          :raise_errors: true
-          :dynamic_entries: :auto
