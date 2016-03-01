@@ -1,17 +1,11 @@
-# Site settings
+---
 title: Backspace
-email: hello@backspace.studio
-description: > # this means to ignore newlines until "baseurl:"
-  Backspace is a startup studio driven by technology.
-  Together we build complex technologies into commercial companies.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://backspace.studio" # the base hostname & protocol for your site
-twitter_username: backspacehq
-github_username:  backspacehq
-facebook_username:  Backspace-959766040737542
-dribbble_username: backspace
-markdown: kramdown
-highlighter: rouge
-exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: pretty
-timezone: "Europe/Amsterdam"
+url: http://backspace.studio
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true

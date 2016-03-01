@@ -1,13 +1,15 @@
 ---
+title: Read before pitching
+date: 2016-01-20 14:00:03 Z
+categories:
+- playbook
 layout: post
-title:  "Read before pitching"
-author: "Jons Janssens"
-author_image: /img/content/people/jons-janssens.png
-summary: >
+author: Jons Janssens
+author_image: "/img/content/people/jons-janssens.png"
+summary: |
   Because most early startups are more of a story than a real company. You need to get people on board and become a master in the art of pitching. So own it.
-date:   2016-01-20 14:00:03
 category: playbook
-cover: /img/content/blog/Read-before-pitching.jpg
+cover: "/img/content/blog/Read-before-pitching.jpg"
 ---
 
 We’ve done many pitches. Every good entrepreneur has a story to tell. It’s what you do and maybe even who you are. You are the girl or guy that lives and breathes the mission of your company. Especially when starting up. Because most early startups are more of a story than a real company. You need to get people on board and become a master in the art of pitching. So own it.
