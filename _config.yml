@@ -1,7 +1,7 @@
 ---
 title: Backspace
 url: http://backspace.studio
-timezone: UTC
+timezone: Europe/Amsterdam
 collections:
   posts:
     title: Posts
