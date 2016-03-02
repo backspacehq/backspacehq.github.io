@@ -3,6 +3,9 @@ title: Backspace
 url: http://backspace.studio
 timezone: Europe/Amsterdam
 collections:
+  milestones:
+    title: Milestones
+    output: true
   posts:
     title: Posts
     output: true
