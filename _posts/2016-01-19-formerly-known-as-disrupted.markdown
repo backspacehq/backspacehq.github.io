@@ -1,6 +1,6 @@
 ---
 title: Yes, we changed the name
-date: 2016-01-19 14:00:03 Z
+date: 2016-01-19 15:00:03 +01:00
 categories:
 - studio
 layout: post

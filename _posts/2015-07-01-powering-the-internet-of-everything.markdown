@@ -1,6 +1,6 @@
 ---
 title: Powering the internet of everything
-date: 2015-07-01 09:11:03 Z
+date: 2015-07-01 11:11:03 +02:00
 categories:
 - friends
 layout: post
