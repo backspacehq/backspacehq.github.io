@@ -8,7 +8,7 @@ author_image: "/img/content/people/jons-janssens.png"
 summary: |
   Because most early startups are more of a story than a real company. You need to get people on board and become a master in the art of pitching. So own it.
 category: playbook
-cover: "/img/content/blog/Read-before-pitching.jpg"
+cover_image: "/img/content/blog/Read-before-pitching.jpg"
 layout: post
 ---
 
