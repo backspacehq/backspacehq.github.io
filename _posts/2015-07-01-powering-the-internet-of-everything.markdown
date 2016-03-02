@@ -9,7 +9,7 @@ author_image: "/img/content/people/jons-janssens.png"
 summary: |
   An open data network for the ‘internet of things’.
 category: friends
-cover: "/img/content/blog/Things-network_1200.jpg"
+cover_image: "/img/content/blog/Things-network_1200.jpg"
 ---
 
 The internet just turned 25. This is a big moment, but we’re only getting started. After putting a super computer in everyone’s pocket, other things around us will be connected to the internet as well. People and machines will be able to interact with the physical things around them in a whole new way. Machines will be able to talk machines and sensors will generate vast amounts of data.

@@ -9,7 +9,7 @@ author_image: "/img/content/people/jons-janssens.png"
 summary: |
   The studio formerly known as Disrupted, now goes by the name Backspace.
 category: studio
-cover: "/img/content/blog/New-name.jpg"
+cover_image: "/img/content/blog/New-name.jpg"
 ---
 
 The studio formerly known as Disrupted, now goes by the name Backspace. Why? Let me explain.
