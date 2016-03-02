@@ -27,3 +27,22 @@ exclude:
 - package.json
 permalink: pretty
 email: hello@backspace.studio
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "milestones"
+    values:
+      visible_date: ""
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Jons Janssens"
+      author_image: "/img/content/people/jons-janssens.png"
+      summary: ""
+      category: ""
+      cover_image: ""
