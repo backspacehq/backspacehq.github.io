@@ -1,19 +1,6 @@
 ---
 title: Backspace
-description: > # this means to ignore newlines until "baseurl:"
-  Backspace is a startup studio driven by technology.
-  Together we build complex technologies into commercial companies.
-baseurl: ""
 url: http://backspace.studio
-twitter_username: backspacehq
-github_username:  backspacehq
-facebook_username:  Backspace-959766040737542
-dribbble_username: backspace
-markdown: kramdown
-highlighter: rouge
-exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: pretty
-email: hello@backspace.studio
 timezone: Europe/Amsterdam
 collections:
   milestones:
@@ -25,3 +12,18 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: |
+  Backspace is a startup studio driven by technology. Together we build complex technologies into commercial companies.
+baseurl: ''
+twitter_username: backspacehq
+github_username: backspacehq
+facebook_username: Backspace-959766040737542
+dribbble_username: backspace
+markdown: kramdown
+highlighter: rouge
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
+permalink: pretty
+email: hello@backspace.studio
