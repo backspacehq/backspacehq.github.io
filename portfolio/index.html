@@ -90,38 +90,15 @@ layout: default
       </p>
     </div>
     <div class="content-block-milestones">
-      
-      <!--div class="milestone-item">
-        <div class="milestone-item-date">January 2016</div>
-        <div class="milestone-item-title"><h3>Florin launches IVAN</h3></div>
-        <div class="milestone-item-desc">
-          <p>Florin has launched IVAN, an app to get the IBAN number of your friends.</p>
-        </div>
-      </div-->
-
+      {% for milestone in site.milestones %}
       <div class="milestone-item">
-        <div class="milestone-item-date">December 2015</div>
-        <div class="milestone-item-title"><h3>BYBORRE joins Backspace</h3></div>
+        <div class="milestone-item-date">{{ milestone.visible_date }}</div>
+        <div class="milestone-item-title"><h3>{{ milestone.title }}</h3></div>
         <div class="milestone-item-desc">
-          <p>BYBORRE has a great vision for the future of fabrics. Together we will make it into a great company.</p>
+          <p>{{ milestone.content }}</p>
         </div>
       </div>
-
-      <div class="milestone-item">
-        <div class="milestone-item-date">November 2015</div>
-        <div class="milestone-item-title"><h3>Soverin has users in 20+ countries</h3></div>
-        <div class="milestone-item-desc">
-          <p>After launching in May, Soverin has grown to a global audience in 20+ countries. Raising awareness for data privacy. </p>
-        </div>
-      </div>
-
-      <div class="milestone-item">
-        <div class="milestone-item-date">October 2015</div>
-        <div class="milestone-item-title"><h3>Backspace opens up the Treehouse</h3></div>
-        <div class="milestone-item-desc">
-          <p>Our team needs a great place to work. We called it the Treehouse and we’ve found a great location in the B.Amsterdam building.</p>
-        </div>
-      </div>
+      {% endfor %}
     </div>
 
   </div>
