@@ -17,7 +17,7 @@ defaults:
     path: ''
     type: milestones
   values:
-    visible_date: 'Januari 2016'
+    visible_date: Januari 2016
 - scope:
     path: ''
     type: posts
