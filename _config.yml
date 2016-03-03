@@ -6,6 +6,7 @@ collections:
   milestones:
     title: Milestones
     output: true
+    new field: default text
   posts:
     title: Posts
     output: true
