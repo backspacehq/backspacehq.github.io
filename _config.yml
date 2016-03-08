@@ -31,10 +31,10 @@ defaults:
     cover_image: ''
 description: |
   Backspace is a startup studio driven by technology. Together we build complex technologies into commercial companies.
-baseurl: ''
+baseurl: 
 twitter_username: backspacehq
 github_username: backspacehq
-facebook_username: Backspace-959766040737542
+facebook_username: backspacehq
 dribbble_username: backspace
 markdown: kramdown
 highlighter: rouge
