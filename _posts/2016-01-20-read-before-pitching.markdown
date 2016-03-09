@@ -80,7 +80,7 @@ Y Combinator is the leading accelerator in the world. They know how the cookie c
 
 * [The Playbook](http://playbook.samaltman.com)
 
-Sign up at [AngelList](https://angel.co). It’s a great place to get in touch with  like minded people, build your profile and even hiring is catching on. These \[Pitching hacks\](/downloads/Pitching_hacks_Venture hacks.pdf) (PDF) by are a good read as well.
+Sign up at [AngelList](https://angel.co). It’s a great place to get in touch with  like minded people, build your profile and even hiring is catching on. These [Pitching hacks](/downloads/Pitching_hacks_Venture hacks.pdf) (PDF) by are a good read as well.
 
 ### Smart people to follow
 
