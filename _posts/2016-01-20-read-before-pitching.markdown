@@ -7,8 +7,8 @@ author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
 summary: |
   Here are some of the resources you need to read before pitching.
-category: playbook
 cover_image: "/img/content/blog/Read-before-pitching.jpg"
+category: playbook
 layout: post
 ---
 
@@ -26,7 +26,7 @@ Start of by watching Simon Sinek tell how it is. We like his thinking. “[Peopl
 
 A pitch comes in many forms. Which one you need depends on the context. If you meet someone for 30 seconds in an elevator, you certainly aren't going to get your Macbook out and start flipping through some slides. Please don’t. It’s all about making a lasting impression and try to be clear and concise. Less is more.
 
-Although it sounds like overkill, a well-prepared entrepreneur will have all of the following resources, to be used at the appropriate times. Plus putting these in writing really structures your thoughts. And practice makes perfect. Always be pitching. There are many formats out there, \[but we prefer this one\](/downloads/Backspace_Pitchdeck format.pdf) (PDF). Dave McClure has a great one as well. \[Love the design…\](/downloads/Dave_McClure_Pitchdeck format.pdf) (PDF)
+Although it sounds like overkill, a well-prepared entrepreneur will have all of the following resources, to be used at the appropriate times. Plus putting these in writing really structures your thoughts. And practice makes perfect. Always be pitching. There are many formats out there, [but we prefer this one](/downloads/Backspace_Pitchdeck format.pdf) (PDF). Dave McClure has a great one as well. [Love the design…](/downloads/Dave_McClure_Pitchdeck format.pdf) (PDF)
 
 It’s important that your deck has a clear storyline. This is how Elon Musk builds [his story](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b). The content can be reused in different forms. These are the tools of the trade.
 
@@ -40,7 +40,7 @@ It’s important that your deck has a clear storyline. This is how Elon Musk bui
 
 4. Business plan in one page; more on the ‘lean canvas' below.
 
-5. Public web site with intro, product shots \+ short video/demo.
+5. Public web site with intro, product shots + short video/demo.
 
 6. Deck of max 15 slides; people should be able to forward it, so needs to tell your story without you being there. And don’t forget [the 10/20/30 rule](http://guykawasaki.com/the_102030_rule/).
 
@@ -62,7 +62,7 @@ Structuring your pitch. You can use these archetypes to get your story across. T
 
 ### A business plan on one page
 
-Think big, but start small. This one-page canvas forces you to think about your plans and get your story straight. It covers all aspects of your business. We prefer the ‘\[lean canvas\](/downloads/Backspace_Lean canvas.jpg)’ over the ‘[business model canvas](http://leanstack.com/why-lean-canvas/)’. It’s better suited for the search phase of a startup, the other one is more directed towards established companies in the execute phase. No more kidding around, get down to business.
+Think big, but start small. This one-page canvas forces you to think about your plans and get your story straight. It covers all aspects of your business. We prefer the ‘[lean canvas](/downloads/Backspace_Lean canvas.jpg)’ over the ‘[business model canvas](http://leanstack.com/why-lean-canvas/)’. It’s better suited for the search phase of a startup, the other one is more directed towards established companies in the execute phase. No more kidding around, get down to business.
 
 ## 3. The Runway
 
