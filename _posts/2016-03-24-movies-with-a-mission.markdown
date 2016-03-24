@@ -6,7 +6,6 @@ categories:
 author: Jons Janssens
 summary: Movies that put the spotlight on where it hurts.
 cover_image: "/uploads/Image_Movies_with_a_mission.jpg"
-category: positiveimpact
 ---
 
 There are many ways to tell a story. Books, articles, infographics, but movies do a great job in just 90 minutes. It serves the attention span of most people today. Time moves fast, so taking a week to read a book isn’t people’s first priority.
