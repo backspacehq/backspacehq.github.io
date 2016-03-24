@@ -4,6 +4,7 @@ date: 2016-03-24 15:40:00 +01:00
 categories:
 - positive impact
 author: Jons Janssens
+summary: Movies that put the spotlight on where it hurts.
 cover_image: "/uploads/Image_Movies with a mission.jpg"
 ---
 
