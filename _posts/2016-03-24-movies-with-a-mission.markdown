@@ -12,21 +12,21 @@ As a studio we build companies to create positive impact. So that usually starts
 Each of these movies put the spotlight on where it hurts. Changing the perspective. Real movies with a mission. They also relate to the industries we focus on. Most of them are available on Netflix or just order the old school DVD. It's worth your 90 minutes of attention.
 
 ## Textile
-### The true cost (2015)
+**The true cost (2015)**
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/undefined' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NDx711ibD1M' frameborder='0' allowfullscreen></iframe></div>
 
 ## Cyber security
 **Citizen Four (2014)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XiGwAvd5mvM" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/XiGwAvd5mvM' frameborder='0' allowfullscreen></iframe></div>
 
 ## Finance
 **The Rise and Rise of Bitcoin (2014)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gcwnpvODd-8" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/gcwnpvODd-8' frameborder='0' allowfullscreen></iframe></div>
 
 ## Environment
 **Cowspiracy (2014)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nV04zyfLyN4" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/nV04zyfLyN4' frameborder='0' allowfullscreen></iframe></div>
