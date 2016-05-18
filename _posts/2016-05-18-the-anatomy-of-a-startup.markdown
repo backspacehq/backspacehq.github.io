@@ -1,6 +1,8 @@
 ---
 title: The anatomy of a startup
 date: 2016-05-18 14:36:00 +02:00
+tags:
+- startup
 cover_image: "/uploads/Anatomy.jpeg"
 ---
 
