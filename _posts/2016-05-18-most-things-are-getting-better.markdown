@@ -4,6 +4,7 @@ date: 2016-05-18 17:15:00 +02:00
 categories:
 - worldview
 author: Barbara Putman Cramer
+author_image: "/img/content/people/barbara-putman-cramer.png"
 cover_image: "/uploads/Worldview.jpeg"
 ---
 
