@@ -1,12 +1,13 @@
 ---
 title: Powering the internet of everything
 date: 2015-07-01 11:11:03 +02:00
+categories:
+- friends
 layout: post
 author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
 summary: |
   An open data network for the ‘internet of things’.
-category: friends
 cover_image: "/img/content/blog/Things-network_1200.jpg"
 ---
 

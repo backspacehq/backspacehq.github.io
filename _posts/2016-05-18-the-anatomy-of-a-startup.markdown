@@ -1,7 +1,8 @@
 ---
 title: The anatomy of a startup
 date: 2016-05-18 14:36:00 +02:00
-category: startup
+categories:
+- startup
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
 summary: Cover all bases. The roles you need in building a company.

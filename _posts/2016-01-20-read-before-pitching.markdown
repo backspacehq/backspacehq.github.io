@@ -1,7 +1,8 @@
 ---
 title: Read before pitching
 date: 2016-01-20 15:00:00 +01:00
-category: playbook
+categories:
+- playbook
 author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
 summary: |

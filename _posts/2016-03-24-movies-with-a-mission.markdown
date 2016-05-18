@@ -1,7 +1,8 @@
 ---
 title: Movies with a mission
 date: 2016-03-24 15:40:00 +01:00
-category: positiveimpact
+categories:
+- positiveimpact
 author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
 summary: Movies that put the spotlight on where it hurts.

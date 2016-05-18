@@ -1,7 +1,8 @@
 ---
 title: Yes, we changed the name
 date: 2016-01-19 15:00:00 +01:00
-category: studio
+categories:
+- studio
 author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
 summary: |
