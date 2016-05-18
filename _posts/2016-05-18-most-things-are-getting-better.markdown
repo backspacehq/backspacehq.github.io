@@ -5,6 +5,7 @@ categories:
 - worldview
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
+summary: Why so negative? Let the facts and figures tell you the real story.
 cover_image: "/uploads/Worldview.jpeg"
 ---
 
