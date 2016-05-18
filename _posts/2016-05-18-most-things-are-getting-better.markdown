@@ -27,8 +27,8 @@ What to do? We cannot rely on the storytelling skills of a Swedish professor’s
 
 It’s tempting to immediately play down this positive worldview, but that only shows how engrained these concepts are. Focus on the facts, not the opinions. At least in our brains here, at the studio. So we’re doing our utmost best to not only challenge them by thinking that most things improve, but hopefully also improving things ourselves. 
 
-Watch the Rosling family’s TED-talk “How not to be ignorant about the world”.  https://www.youtube.com/watch?v=Sm5xF-UYgdg&feature=youtu.be
+## Watch the Rosling family’s TED-talk “How not to be ignorant about the world”.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sm5xF-UYgdg" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/Sm5xF-UYgdg" frameborder="0" allowfullscreen></iframe>
 
   
