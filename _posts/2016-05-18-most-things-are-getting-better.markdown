@@ -14,6 +14,7 @@ That’s a fact many of us don’t swallow easily. It’s a no-brainer to prove 
 Rosling founded Gapminder, an NGO that publishes visualisations from immense data sets to track global health and poverty trends. His images show that deaths from natural disaster, as well as global poverty dropped tremendously the past century. He’s about rational optimism. Don’t take his word for it, the facts and figures speak for themselves.
 
 We don’t read about this for a number of reasons:
+
 * We suffer from a cultural bias - in other words: we have strong assumptions that guide how we interpret facts
 * News media suffer from the same bias - the angle is not always ‘positive news’
 * Some teachers rely on outdated worldviews and facts they were taught themselves
