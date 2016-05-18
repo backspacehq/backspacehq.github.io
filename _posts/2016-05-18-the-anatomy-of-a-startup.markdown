@@ -6,7 +6,7 @@ categories:
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
 summary: Cover all bases. The roles you need in building a company.
-cover_image: "/uploads/Anatomy.jpeg"
+cover_image: "/uploads/Architecture.jpeg"
 ---
 
 Every startup team in technology knows the odds are against them. Failure rates of first-time entrepreneurs are dauntingly high. Needless to say it takes advanced skill to turn a great idea into a great company. First-time entrepreneurs are often unaware what skills are vital when in the process of building their venture.
