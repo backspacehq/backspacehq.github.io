@@ -1,13 +1,11 @@
 ---
 title: Yes, we changed the name
 date: 2016-01-19 15:00:00 +01:00
-categories:
-- studio
+category: studio
 author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
 summary: |
   The studio formerly known as Disrupted, now goes by the name Backspace.
-category: studio
 cover_image: "/img/content/blog/New-name.jpg"
 layout: post
 ---

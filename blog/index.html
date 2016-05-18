@@ -18,7 +18,9 @@ layout: default
       {% for post in site.posts %}
       <a href="{{ post.url }}" class="grid-item">
         <div class="grid-item-img" style="background-image: url({{ post.cover_image }})">
+          <div class="post-title">
           {{ post.title }}
+          </div>
         </div>
         <div class="grid-item-desc">
           <strong>#{{ post.category }}</strong><br>
