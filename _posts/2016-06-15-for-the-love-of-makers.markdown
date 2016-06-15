@@ -1,6 +1,8 @@
 ---
 title: For the love of makers
 date: 2016-06-15 12:00:00 +02:00
+author: Barbara Putman Cramer
+author_image: "/img/content/people/barbara-putman-cramer.png"
 cover_image: "/uploads/creatives.jpg"
 ---
 
