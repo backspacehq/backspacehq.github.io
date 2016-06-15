@@ -15,7 +15,7 @@ Many creatives can set up shop from virtually anywhere. Most tools fit their lap
 
 For studios like ours, Dribbble, Behance, Github or Cargo Collective are default online destinations to spot talent. These platforms are also a place to get totally lost in the quantity of featured work. 
 
-Off course we ask around in our personal networks and sift through design blogs. Still, a match seems to rely more on faith in serendipity, than some sort of structure. The problem we see is the overload of visual content and the lack of a single touchpoint.
+Of course we ask around in our personal networks and sift through design blogs. Still, a match seems to rely more on faith in serendipity, than on some sort of structure. The problem we see is the overload of visual content and the lack of a single touchpoint.
 
 And so we wonder: is there a better way to great karma-matches between companies and creatives? Between the ones who have the work and do the work. Where can we increase transparency when the default gateway is digital or an intermediary?
 
@@ -53,6 +53,6 @@ Masters of motion
 * [Jeroen Krielaars](http://www.calango.nl)
 * [Stephan van den Brink](http://www.stephanvandenbrink.com)
 
-Of course, we’re looking to improve our chances of supporting makers in feeling challenged, focused, creative and alive. Not only by what we ask from them, but also by exposing them to potential collaborators.
+Yes, we’re looking to improve our chances of supporting makers in feeling challenged, focused, creative and alive. Not only by what we ask from them, but also by exposing them to potential collaborators.
 
 *Flow being this state when what you’re doing is exactly challenging enough for your particular skill set to forget about time, space and practically everything else. 
