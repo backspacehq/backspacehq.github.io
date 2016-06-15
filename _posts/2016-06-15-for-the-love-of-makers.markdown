@@ -16,13 +16,13 @@ Other strategies we’re using are asking around in personal networks and scouri
 
 And so we wonder: is there a better way to great karma-matches between companies and creatives? Between the ones who have the work and do the work. Where can we increase transparency when the default gateway is digital or an intermediary?
 
-We thought we’d start with sharing makers we love. Makers we know personally. Makers we can vouch for. Makers who bring us in flow, because we bring them in flow*. 
+We thought we’d start with sharing makers we love. Makers we know personally. Or makers' work we just really like. Makers who bring us in flow, because we bring them in flow*. 
 
 Who are we missing? Please [get in touch](mailto:hello@backspace.studio) to complement the list. We’ll make sure to update. And who knows build a curated marketplace along the way. One touchpoint to turn ideas into tangibles.
 
 Here we go-go:
 
-Masters of the image:
+Masters of the image
 
 * [Petrovsky & Ramone](http://love.petrovskyramone.com)
 * [Pablo Delfos](http://www.pablodelfos.com)
@@ -32,20 +32,20 @@ Masters of the moving image
 * [Luke Smits](http://www.snotyoung.com/)
 
 Masters of the pixel
-* http://michieldegraaf.com
-* http://khalidl.nl
+* [Michiel de Graaf](http://michieldegraaf.com)
+* [Sebastiaan de With](http://icondesigner.net)
 
 Masters of the pencil
-* http://agentpekka.com/artist/
-* http://resuk.nl
+* [Laszlito](http://www.laszlito.com)
+* [Ralph Resuk](http://resuk.nl) 
 
 Masters of code
-* https://pragmatist.nl
-* https://indentity.nl
+* [Frank van den Brink](https://pragmatist.nl)
+* [Dave de Fijter](https://indentity.nl)
 
 Masters of motion
-* http://www.calango.nl
-* http://www.stephanvandenbrink.com
+* [Jeroen Krielaars](http://www.calango.nl)
+* [Stephan van den Brink](http://www.stephanvandenbrink.com)
 
 Of course, we’re looking to improve our chances of supporting makers in feeling challenged, focused, creative and alive. Not only by what we ask from them, but also by exposing them to potential collaborators.
 
