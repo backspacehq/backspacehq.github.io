@@ -5,6 +5,7 @@ categories:
 - studio
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
+summary: Thinking about a curated marketplace for creative folk.
 cover_image: "/uploads/creatives.jpg"
 ---
 
