@@ -22,7 +22,8 @@ Who are we missing? Please [get in touch](mailto:hello@backspace.studio) to comp
 
 Here we go-go:
 
-Masters of the image
+Masters of the image:
+
 * [Petrovsky & Ramone](http://love.petrovskyramone.com)
 * [Pablo Delfos](http://www.pablodelfos.com)
 
