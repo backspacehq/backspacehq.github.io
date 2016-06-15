@@ -1,6 +1,7 @@
 ---
 title: For the love of makers
 date: 2016-06-15 12:00:00 +02:00
+cover_image: "/uploads/creatives.jpg"
 ---
 
 As entrepreneurs, we have a thing for anyone who can turn ideas into tangibles. Oddly enough, it can be tough to find illustrators, animators, photographers, developers, product designers.
@@ -20,11 +21,11 @@ Who are we missing? Please [get in touch](mailto:hello@backspace.studio) to comp
 Here we go-go:
 
 Masters of the image
-* http://love.petrovskyramone.com
-* http://www.pablodelfos.com
+* [Petrovsky & Ramone](http://love.petrovskyramone.com)
+* [Pablo Delfos](http://www.pablodelfos.com)
 
 Masters of the moving image
-* http://jopperog.com
+* [Joppe Rog](http://jopperog.com)
 * http://www.snotyoung.com/
 
 Masters of the pixel
