@@ -26,7 +26,7 @@ Masters of the image
 
 Masters of the moving image
 * [Joppe Rog](http://jopperog.com)
-* http://www.snotyoung.com/
+* [Luke Smits](http://www.snotyoung.com/)
 
 Masters of the pixel
 * http://michieldegraaf.com
