@@ -1,5 +1,5 @@
 ---
-title: For the love of makers
+title: Finding the right maker
 date: 2016-06-15 12:00:00 +02:00
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
@@ -12,7 +12,7 @@ Many creatives can set up shop from virtually anywhere. Most tools fit their lap
 
 For studios like ours, Dribbble, Behance, Github or Cargo Collective are default online destinations to spot talent. These platforms are also a place to get totally lost in the quantity of featured work. 
 
-Other strategies we’re using are asking around in personal networks and scouring design blogs. Still, a match seems to rely more on faith in serendipity, than some sort of structure. The problem we see is the overload of visual content and the lack of a single touchpoint.
+Other strategies we’re using are asking around in personal networks and sifting through design blogs. Still, a match seems to rely more on faith in serendipity, than some sort of structure. The problem we see is the overload of visual content and the lack of a single touchpoint.
 
 And so we wonder: is there a better way to great karma-matches between companies and creatives? Between the ones who have the work and do the work. Where can we increase transparency when the default gateway is digital or an intermediary?
 
