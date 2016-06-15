@@ -18,9 +18,7 @@ And so we wonder: is there a better way to great karma-matches between companies
 
 We thought we’d start with sharing makers we love. Makers we know personally. Or makers' work we just really like. Makers who bring us in flow, because we bring them in flow*. 
 
-Who are we missing? Please [get in touch](mailto:hello@backspace.studio) to complement the list. We’ll make sure to update. And who knows build a curated marketplace along the way. One touchpoint to turn ideas into tangibles.
-
-Here we go-go:
+Who are we missing? Please [get in touch](mailto:hello@backspace.studio) to complement the list. We’ll make sure to update. And who knows build a curated marketplace along the way. One touchpoint to turn ideas into tangibles. Here we go-go:
 
 Masters of the image
 
@@ -28,22 +26,27 @@ Masters of the image
 * [Pablo Delfos](http://www.pablodelfos.com)
 
 Masters of the moving image
+
 * [Joppe Rog](http://jopperog.com)
 * [Luke Smits](http://www.snotyoung.com/)
 
 Masters of the pixel
+
 * [Michiel de Graaf](http://michieldegraaf.com)
 * [Sebastiaan de With](http://icondesigner.net)
 
 Masters of the pencil
+
 * [Laszlito](http://www.laszlito.com)
 * [Ralph Resuk](http://resuk.nl) 
 
 Masters of code
+
 * [Frank van den Brink](https://pragmatist.nl)
 * [Dave de Fijter](https://indentity.nl)
 
 Masters of motion
+
 * [Jeroen Krielaars](http://www.calango.nl)
 * [Stephan van den Brink](http://www.stephanvandenbrink.com)
 
