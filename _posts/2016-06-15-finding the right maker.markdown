@@ -41,6 +41,7 @@ Masters of the pixel
 Masters of the pencil
 
 * [Laszlito](http://www.laszlito.com)
+* [Luis Mendo](http://www.luismendo.com)
 * [Ralph Resuk](http://resuk.nl) 
 
 Masters of code
