@@ -9,21 +9,22 @@ summary: Tools to start nurturing a healthy company culture.
 cover_image: "/uploads/culture.jpg"
 ---
 
-What is the meaning of life? Of work? We don’t have clear-cut answers. We do have an innate desire to explore these questions. At home and at work. Creating a positive culture for the things you can influence.
+What is the meaning of work? Of life? We don’t have clear-cut answers, but it’s more than just trading your time for money. We do have an innate desire to explore these questions. At home and at work. Creating a positive culture for the things you can influence.
 
 Purpose, mission, North Star, BHAG, vision, calling, legacy: they’re all different ways to feel good about how you’re spending your days. To do this on a personal level, is not easy. To do this on a company level, is even harder.
 
-At Backspace, we decided not to ignore how we, as individuals, ideally spend our lives. The tension between everyone’s aspirations and daily life at the office fuels our work. It reveals the fear of ‘not making money’, as well as our hunger to do good. To be explicit about this tension helps us to turn obstacles into opportunities.
+At Backspace, we decided not to ignore how we, as individuals, ideally spend our lives. The tension between everyone’s aspirations and daily life at the studio fuels our work. You need to be explicit to turn obstacles into opportunities.
 
-## How purpose comes with profit
+
+# How purpose comes with profit
 
 For that reason, we keep track of head and heart; performance and happiness; profit and purpose; productivity and engagement. Because we see that profit and purpose aren’t mutually exclusive. They’re force multipliers.
 
-This post shares the tools we used over the course of a six-month experiment to be more aware of our current and desired company culture. We hope the learnings benefit you, too.
+This post shares the tools we used over the course of a six-month program to define our company culture. We hope the learnings benefit you, too.
 
 OK, the mini-course starts now:
 
-**Values are the foundation of culture**
+## Values are the foundation of culture
 
 A company is a group of people collaborating to reach a shared objective. It’s a dry way of putting it, but definitions help to talk about companies a bit more theoretically.
 
@@ -33,7 +34,7 @@ Formulating that objective on different levels helps to see how day-to-day work 
 2. Now look at your feet, standing firmly on the ground. You know exactly what and what doesn’t knock you off balance. Those feet, are your values. They’re timeless. Non-negotiable.
 3. In between that star and your feet is a pretty open space, not? Which is fine, until you need to pick a left, or a right. The compass for those moments is your mission.
 
-**Tools to make your purpose explicit**
+## Tools to make your purpose explicit
 
 Star (purpose): it’s your company’s reason for being, the change you want to see in the world.
 
