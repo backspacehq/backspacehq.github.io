@@ -21,11 +21,13 @@ For that reason, we keep track of head and heart; performance and happiness; pro
 
 This post shares the tools we used over the course of a six-month experiment to further define our company culture. We hope the learnings benefit you, too.
 
-**OK, the mini-course starts now:**
+OK, the mini-course starts now:
 
 ### Values are the foundation of culture
 
-A company is a group of people collaborating to reach a shared objective. It’s a dry way of putting it, but definitions help to talk about companies a bit more theoretically.
+> A company is a group of people collaborating to reach a shared objective. 
+
+It’s a dry way of putting it, but definitions help to talk about companies a bit more theoretically.
 
 Formulating that objective on different levels helps to see how day-to-day work eventually contributes to something bigger than ourselves. Disclaimer: these are the words we use, because they worked for us. You can wordsmith them forever. We just recommend taking the effort to verbalise these three ‘levels’:
 
