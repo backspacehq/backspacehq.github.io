@@ -19,7 +19,7 @@ At Backspace, we decided not to ignore how we, as individuals, ideally spend our
 
 For that reason, we keep track of head and heart; performance and happiness; profit and purpose; productivity and engagement. Because we see that profit and purpose aren’t mutually exclusive. They’re force multipliers.
 
-This post shares the tools we used over the course of a six-month program to define our company culture. We hope the learnings benefit you, too.
+This post shares the tools we used over the course of a six-month experiment to further define our company culture. We hope the learnings benefit you, too.
 
 OK, the mini-course starts now:
 
@@ -33,7 +33,7 @@ Formulating that objective on different levels helps to see how day-to-day work 
 2. Now look at your feet, standing firmly on the ground. You know exactly what and what doesn’t knock you off balance. Those feet, are your values. They’re timeless. Non-negotiable.
 3. In between that star and your feet is a pretty open space, not? Which is fine, until you need to pick a left, or a right. The compass for those moments is your mission.
 
-## Tools to make your purpose explicit
+### Tools to make your purpose explicit
 
 **Star (purpose)**: it’s your company’s reason for being, the change you want to see in the world.
 
@@ -57,7 +57,7 @@ Formulating that objective on different levels helps to see how day-to-day work 
 * Tool: visualisation, sketching.
 * Example: for us, this activity revealed how we all see the entrepreneurs in our ventures and users of our technologies as the lever for change, over the technology itself.
 
-## The benefits of a cultural experiment
+### The benefits of a cultural experiment
 
 As emphasised earlier, we’re only sharing a journey here, instead of an outcome. The tools shouldn’t be the goal, they’re more of a starting point to put time and effort in nurturing a healthy company culture. So set your feet firmly on the ground, get that compass out and aim for that star. All to be relentlessly ambitious in breaking out of a short-term profit-maximising paradigm, into a world where purpose is the point and profit the result.
 
