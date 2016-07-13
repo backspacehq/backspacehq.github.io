@@ -15,7 +15,7 @@ Purpose, mission, North Star, BHAG, vision, calling, legacy: they’re all diffe
 
 At Backspace, we decided not to ignore how we, as individuals, ideally spend our lives. The tension between everyone’s aspirations and daily life at the studio fuels our work. You need to be explicit to turn obstacles into opportunities.
 
-## How purpose comes with profit
+### How purpose comes with profit
 
 For that reason, we keep track of head and heart; performance and happiness; profit and purpose; productivity and engagement. Because we see that profit and purpose aren’t mutually exclusive. They’re force multipliers.
 
