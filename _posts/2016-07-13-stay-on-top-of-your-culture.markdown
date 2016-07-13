@@ -21,7 +21,7 @@ This post shares the tools we used over the course of a six-month experiment to 
 
 OK, the mini-course starts now:
 
-\*\*Values are the foundation of culture \*\*
+**Values are the foundation of culture**
 
 A company is a group of people collaborating to reach a shared objective. It’s a dry way of putting it, but definitions help to talk about companies a bit more theoretically.
 
