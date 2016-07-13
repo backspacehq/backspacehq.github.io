@@ -15,6 +15,8 @@ Purpose, mission, North Star, BHAG, vision, calling, legacy: they’re all diffe
 
 At Backspace, we decided not to ignore how we, as individuals, ideally spend our lives. The tension between everyone’s aspirations and daily life at the office fuels our work. It reveals the fear of ‘not making money’, as well as our hunger to do good. To be explicit about this tension helps us to turn obstacles into opportunities.
 
+**How purpose comes with profit**
+
 For that reason, we keep track of head and heart; performance and happiness; profit and purpose; productivity and engagement. Because we see that profit and purpose aren’t mutually exclusive. They’re force multipliers.
 
 This post shares the tools we used over the course of a six-month experiment to be more aware of our current and desired company culture. We hope the learnings benefit you, too.
@@ -54,7 +56,7 @@ Feet (values): principles or standards of behaviour that show what is important 
 Compass (mission): what you want to achieve, for whom and how. Preferably in about 8 words. That’s a verb, target population and an outcome that’s measurable. Think of it as a mantra.
 
 * Activity: use meditation and visualisation techniques to guide team through a personal envisioning of the future. Have everyone share their story and sketch it out, so all have an equal understanding of the content.
-* Tools: visualisation, sketching.
+* Tool: visualisation, sketching.
 * Example: for us, this activity revealed how we all see the entrepreneurs in our ventures and users of our technologies as the lever for change, over the technology itself.
 
 **The benefits of a cultural experiment**
