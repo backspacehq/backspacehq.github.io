@@ -35,9 +35,9 @@ Formulating that objective on different levels helps to see how day-to-day work 
 
 ## Tools to make your purpose explicit
 
-Star (purpose): it’s your company’s reason for being, the change you want to see in the world.
+**Star (purpose)**: it’s your company’s reason for being, the change you want to see in the world.
 
-* Activity: our team worked on finding out how everyone’s individual strengths, moments of flow and sense of meaning overlap. That sweet spot could be defined as a personal purpose.
+* *Activity*: our team worked on finding out how everyone’s individual strengths, moments of flow and sense of meaning overlap. That sweet spot could be defined as a personal purpose.
 * Tool: Meaning Canvas (image below).
 * Example: one team member’s personal purpose is to inspire people to experiment, because it combines a strength (creativity) with flow (one-on-one conversations) and sense of meaning (experimenting leads to entrepreneurship).
 
