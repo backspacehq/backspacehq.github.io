@@ -9,13 +9,13 @@ summary: Tools to start nurturing a healthy company culture.
 cover_image: "/uploads/culture.jpg"
 ---
 
-What is the meaning of life? Of work? We don’t have clear-cut answers. We do have an innate desire to explore these questions. At home and at work.
+What is the meaning of life? Of work? We don’t have clear-cut answers. We do have an innate desire to explore these questions. At home and at work. Creating a positive culture for the things you can influence.
 
 Purpose, mission, North Star, BHAG, vision, calling, legacy: they’re all different ways to feel good about how you’re spending your days. To do this on a personal level, is not easy. To do this on a company level, is even harder.
 
 At Backspace, we decided not to ignore how we, as individuals, ideally spend our lives. The tension between everyone’s aspirations and daily life at the office fuels our work. It reveals the fear of ‘not making money’, as well as our hunger to do good. To be explicit about this tension helps us to turn obstacles into opportunities.
 
-**How purpose comes with profit**
+### How purpose comes with profit
 
 For that reason, we keep track of head and heart; performance and happiness; profit and purpose; productivity and engagement. Because we see that profit and purpose aren’t mutually exclusive. They’re force multipliers.
 
