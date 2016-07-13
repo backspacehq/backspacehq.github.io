@@ -27,11 +27,11 @@ A company is a group of people collaborating to reach a shared objective. It’s
 
 Formulating that objective on different levels helps to see how day-to-day work eventually contributes to something bigger than ourselves. Disclaimer: these are the words we use, because they worked for us. You can wordsmith them forever. We just recommend taking the effort to verbalise these three ‘levels’:
 
-* Imagine the sky at night. Squinting your eyes, you see a bright star blinking: a beacon for where you’re headed on the long-term. That’s your purpose. It’s your reason for being.
+*Imagine the sky at night. Squinting your eyes, you see a bright star blinking: a beacon for where you’re headed on the long-term. That’s your purpose. It’s your reason for being.
 
-* Now look at your feet, standing firmly on the ground. You know exactly what and what doesn’t knock you off balance. Those feet, are your values. They’re timeless. Non-negotiable.
+*Now look at your feet, standing firmly on the ground. You know exactly what and what doesn’t knock you off balance. Those feet, are your values. They’re timeless. Non-negotiable.
 
-* In between that star and your feet is a pretty open space, not? Which is fine, until you need to pick a left, or a right. The compass for those moments is your mission.
+*In between that star and your feet is a pretty open space, not? Which is fine, until you need to pick a left, or a right. The compass for those moments is your mission.
 
 **Tools to make your purpose explicit**
 
