@@ -15,8 +15,7 @@ Purpose, mission, North Star, BHAG, vision, calling, legacy: they’re all diffe
 
 At Backspace, we decided not to ignore how we, as individuals, ideally spend our lives. The tension between everyone’s aspirations and daily life at the studio fuels our work. You need to be explicit to turn obstacles into opportunities.
 
-
-# How purpose comes with profit
+## How purpose comes with profit
 
 For that reason, we keep track of head and heart; performance and happiness; profit and purpose; productivity and engagement. Because we see that profit and purpose aren’t mutually exclusive. They’re force multipliers.
 
@@ -24,7 +23,7 @@ This post shares the tools we used over the course of a six-month program to def
 
 OK, the mini-course starts now:
 
-## Values are the foundation of culture
+### Values are the foundation of culture
 
 A company is a group of people collaborating to reach a shared objective. It’s a dry way of putting it, but definitions help to talk about companies a bit more theoretically.
 
