@@ -21,7 +21,7 @@ For that reason, we keep track of head and heart; performance and happiness; pro
 
 This post shares the tools we used over the course of a six-month experiment to further define our company culture. We hope the learnings benefit you, too.
 
-OK, the mini-course starts now:
+**OK, the mini-course starts now:**
 
 ### Values are the foundation of culture
 
