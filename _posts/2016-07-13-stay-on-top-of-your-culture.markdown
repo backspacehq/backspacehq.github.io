@@ -37,13 +37,13 @@ Formulating that objective on different levels helps to see how day-to-day work 
 
 **Star (purpose)**: it’s your company’s reason for being, the change you want to see in the world.
 
-* *Activity*: our team worked on finding out how everyone’s individual strengths, moments of flow and sense of meaning overlap. That sweet spot could be defined as a personal purpose.
+* Activity: our team worked on finding out how everyone’s individual strengths, moments of flow and sense of meaning overlap. That sweet spot could be defined as a personal purpose.
 * Tool: Meaning Canvas (image below).
 * Example: one team member’s personal purpose is to inspire people to experiment, because it combines a strength (creativity) with flow (one-on-one conversations) and sense of meaning (experimenting leads to entrepreneurship).
 
 ![Meaning Canvas.001-572a9c.png](/uploads/Meaning%20Canvas.001-572a9c.png)
 
-Feet (values): principles or standards of behaviour that show what is important in life to someone. A great company value needs to be maintained forever, applies to all areas of the company and to all team members and helps to make important decisions in the future.
+**Feet (values)**: principles or standards of behaviour that show what is important in life to someone. A great company value needs to be maintained forever, applies to all areas of the company and to all team members and helps to make important decisions in the future.
 
 * Activity: our team members individually shared their most important values. After clustering, a list of universal values surfaced. Some values seemed to be already ‘normal’ in our culture, whereas other ones could be categorised as either core values or aspirational values. We’ve rewritten both the core and aspirational values into phrases that resonate with everyone.
 * Tool: post-its and Values Canvas (image below).
@@ -51,13 +51,13 @@ Feet (values): principles or standards of behaviour that show what is important 
 
 ![Values Cheatsheet.001.png](/uploads/Values%20Cheatsheet.001.png)
 
-Compass (mission): what you want to achieve, for whom and how. Preferably in about 8 words. That’s a verb, target population and an outcome that’s measurable. Think of it as a mantra.
+**Compass (mission)**: what you want to achieve, for whom and how. Preferably in about 8 words. That’s a verb, target population and an outcome that’s measurable. Think of it as a mantra.
 
 * Activity: use meditation and visualisation techniques to guide team through a personal envisioning of the future. Have everyone share their story and sketch it out, so all have an equal understanding of the content.
 * Tool: visualisation, sketching.
 * Example: for us, this activity revealed how we all see the entrepreneurs in our ventures and users of our technologies as the lever for change, over the technology itself.
 
-**The benefits of a cultural experiment**
+## The benefits of a cultural experiment
 
 As emphasised earlier, we’re only sharing a journey here, instead of an outcome. The tools shouldn’t be the goal, they’re more of a starting point to put time and effort in nurturing a healthy company culture. So set your feet firmly on the ground, get that compass out and aim for that star. All to be relentlessly ambitious in breaking out of a short-term profit-maximising paradigm, into a world where purpose is the point and profit the result.
 
