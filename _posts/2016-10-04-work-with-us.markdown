@@ -20,7 +20,7 @@ BACKSPACE
 [BYBORRE](http://byborre.com)
 
 Studio Manager (recently filled)
-[Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime)
+[Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime
 [Circular Knitting Engineer](https://byborre.homerun.co/circular-knitting-engineer-santoni) (fulltime)
 
 [FLORIN](www.florinapp.com) 
