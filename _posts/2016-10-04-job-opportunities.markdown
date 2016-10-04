@@ -5,6 +5,7 @@ categories:
 - "#studio"
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
+summary: Current job openings at the studio and its ventures
 cover_image: "/uploads/download-cd30e5.jpg"
 ---
 
