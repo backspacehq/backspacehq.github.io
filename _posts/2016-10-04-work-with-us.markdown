@@ -1,5 +1,5 @@
 ---
-title: Job opportunities
+title: Work with us
 date: 2016-10-04 11:31:00 +02:00
 categories:
 - "#studio"
