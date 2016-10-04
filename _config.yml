@@ -28,8 +28,10 @@ defaults:
     summary: ''
     category: ''
     cover_image: ''
-description: |
-  Backspace is a startup studio driven by technology. Together we build complex technologies into commercial companies.
+description: 'Backspace is a startup studio driven by technology. Together we build
+  complex technologies into commercial companies.
+
+'
 baseurl: 
 twitter_username: backspacehq
 github_username: backspacehq
