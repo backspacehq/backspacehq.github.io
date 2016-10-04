@@ -13,22 +13,22 @@ cover_image: "/uploads/download-cd30e5.jpg"
 
 You too? See if there's something that fits your character, talents, and ambitions. We're looking forward to finding your application in our inbox.
 
-BACKSPACE
+BACKSPACE - venture studio
 
-[Design intern](mailto: roy@backspace.studio)
+* [Design intern](mailto: roy@backspace.studio)
 
-[BYBORRE](http://byborre.com)
+BYBORRE - textile innovation studio
 
-Studio Manager (recently filled)
-[Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime
-[Circular Knitting Engineer](https://byborre.homerun.co/circular-knitting-engineer-santoni) (fulltime)
+* Studio Manager (found the perfect one!)
+* [Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime
+* [Circular Knitting Engineer](https://byborre.homerun.co/circular-knitting-engineer-santoni) (fulltime)
 
-[FLORIN](www.florinapp.com) 
+FLORIN - social payments
 
-[Back-end Developer](http://jobs.florinapp.com/backend-developer) (fulltime)
-[Product Developer](http://jobs.florinapp.com/product-developer) (fulltime)
-[Florin Ambassador](http://florinapp.com/ambassadeur) (parttime)
+* [Back-end Developer](http://jobs.florinapp.com/backend-developer) (fulltime)
+* [Product Developer](http://jobs.florinapp.com/product-developer) (fulltime)
+* [Florin Ambassador](http://florinapp.com/ambassadeur) (parttime)
 
-[SOVERIN](www.soverin.net)
+SOVERIN - honest email
 
-[Open Application](mailto: diana@soverin.net)
+* [Open Application](mailto: diana@soverin.net)
