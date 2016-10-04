@@ -2,7 +2,7 @@
 title: Work with us
 date: 2016-10-04 11:31:00 +02:00
 categories:
-- "#studio"
+- studio
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
 summary: Current job openings at the studio and its ventures
