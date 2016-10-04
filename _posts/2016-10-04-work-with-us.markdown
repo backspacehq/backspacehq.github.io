@@ -15,20 +15,20 @@ You too? We're looking forward to find your application in our inbox. See if the
 
 BACKSPACE
 
-[Design intern](mailto: roy@backspace.studio)![download.jpg](/uploads/download.jpg)
+[Design intern](mailto: roy@backspace.studio)
 
-BYBORRE
+[BYBORRE](http://byborre.com)
 
 Studio Manager (recently filled)
 [Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime)
 [Circular Knitting Engineer](https://byborre.homerun.co/circular-knitting-engineer-santoni) (fulltime)
 
-FLORIN 
+[FLORIN](www.florinapp.com) 
 
 [Back-end Developer](http://jobs.florinapp.com/backend-developer) (fulltime)
 [Product Developer](http://jobs.florinapp.com/product-developer) (fulltime)
 [Florin Ambassador](http://florinapp.com/ambassadeur) (parttime)
 
-SOVERIN
+[SOVERIN](www.soverin.net)
 
 [Open Application](mailto: diana@soverin.net)
