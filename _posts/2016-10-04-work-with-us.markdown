@@ -11,7 +11,7 @@ cover_image: "/uploads/download-cd30e5.jpg"
 
 > “We believe in it, the radiance that streams from the future, from days we will not see.” - James Salter
 
-You too? We're looking forward to find your application in our inbox. See if there's something that fits your character, talents and ambitions.
+You too? We're looking forward to finding your application in our inbox. See if there's something that fits your character, talents, and ambitions.
 
 BACKSPACE
 
