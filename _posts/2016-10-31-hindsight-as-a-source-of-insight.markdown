@@ -5,7 +5,7 @@ categories:
 - studio
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
-summary: A retrospective as the best possible relationship therapy for product teams
+summary: Relationship therapy for product teams.
 cover_image: "/uploads/download-7b4f80.jpg"
 ---
 
@@ -43,4 +43,4 @@ The ‘physical’ reflection on a process by writing on post-its, whiteboards a
 
 Below, we’ve published a short case study to help you internalise the theory above: Florin’s hard launch.
 
-![Retrospective.pdf](/uploads/Retrospective.pdf)
+![Retrospective.png](/uploads/Retrospective.png)
