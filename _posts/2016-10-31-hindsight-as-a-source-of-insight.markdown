@@ -43,6 +43,6 @@ The ‘physical’ reflection on a process by writing on post-its, whiteboards a
 
 Below, we’ve published a short case study to help you internalise the theory above: Florin’s hard launch.
 
-![Retrospective.png](/uploads/Retrospective.png)
+![Retrospective.png.001.png](/uploads/Retrospective.png.001.png)
 
 As you see, the 'actions' are missing. That's the best way to have a team learn from its mistakes by improving without the prompts from a product manager. Because they, too, prefer to hear new answers every retrospective.
