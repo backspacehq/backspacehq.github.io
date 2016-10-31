@@ -15,7 +15,7 @@ You too? See if there's something that fits your character, talents, and ambitio
 
 BACKSPACE - venture studio
 
-* [Business intern](https://backspace.homerun.co/finance-strategy-and-business-internship)]
+* [Business intern](https://backspace.homerun.co/finance-strategy-and-business-internship)
 * [Design intern](mailto: daisy@backspace.studio)
 
 BYBORRE - textile innovation studio
