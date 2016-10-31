@@ -17,10 +17,13 @@ The format finds its roots in scrum or agile methods for software development, w
 
 The meetings are usually prepared, facilitated and documented by one team member, who asks the others to think about answers to the following four questions before the session:
 
-- Things that went well (where we met expectations)\
-- Things that did not go well (mistakes we don’t expect to repeat)\
-- Things we can do better (can include a suggestion)\
-- Things to celebrate (applause!)
+* Things that went well (where we met expectations)\\
+
+* Things that did not go well (mistakes we don’t expect to repeat)\\
+
+* Things we can do better (can include a suggestion)\\
+
+* Things to celebrate (applause!)
 
 Practically, that means:
 
@@ -42,4 +45,4 @@ Below, we’ve published a short case study to help you internalise the theory a
 
 ![Retrospective.png](/uploads/Retrospective.png)
 
-As you see, the 'actions' are missing. That's the best way to have a team learn from its mistakes by improving without prompts from a product manager. Because they, too, prefer to hear new answers every retrospective. 
+As you see, the 'actions' are missing. That's the best way to have a team learn from its mistakes by improving without the prompts from a product manager. Because they, too, prefer to hear new answers every retrospective.
