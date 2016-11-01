@@ -27,9 +27,10 @@ The meetings are usually prepared, facilitated and documented by one team member
 
 Practically, that means:
 
-Pick a spacious room or corner (out) of your office, get a whiteboard or some paper out with pens and post-its. A different space can help foster an open and honest culture, where everyone feels comfortable to participate.\
-\
-Put the four categories on the whiteboard and have every team member take his or her turn to share the answers they prepped in advance. Their brief explanation can be followed by a call for “any comments or thoughts?”.
+* Pick a spacious room or corner (out) of your office, get a whiteboard or some paper out with pens and post-its. A different space can help foster an open and honest culture, where everyone feels comfortable to participate.
+
+
+* Put the four categories on the whiteboard and have every team member take his or her turn to share the answers they prepped in advance. Their brief explanation can be followed by a call for “any comments or thoughts?”.
 
 The process is this simple, because it helps to create a shared understanding between a group of people with different information processing styles. At Backspace, we benefit from formulating the things we can do better as ‘roles’, because we use some of the vocabulary from a specific governance practice, called Holacracy. In our case, a particular role might have fallen through the cracks this time, or wasn’t picked up by the person responsible.
 
