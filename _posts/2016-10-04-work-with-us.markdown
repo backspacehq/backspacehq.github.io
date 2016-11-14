@@ -13,23 +13,29 @@ cover_image: "/uploads/download-cd30e5.jpg"
 
 You too? See if there's something that fits your character, talents, and ambitions. We're looking forward to finding your application in our inbox.
 
-BACKSPACE - venture studio
+BACKSPACE - impact venture studio
 
 * [Finance, strategy & business intern](https://backspace.homerun.co/finance-strategy-and-business-internship)
+
 * [Design intern](mailto: daisy@backspace.studio)
-* [Open application] (https://backspace.homerun.co/open-application/en/apply)
+
+* [Open application](https://backspace.homerun.co/open-application/en/apply)
 
 BYBORRE - textile innovation studio
 
-* [Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime
-* [Circular Knitting Engineer](she exists!) (fulltime)
+* [Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime)
+
+* Circular Knitting Engineer (found her!)
 
 FLORIN - social payments
 
-* [Product Designer] (http://jobs.florinapp.com/product-designer/en)
+* [Product Designer](http://jobs.florinapp.com/product-designer/en) (fulltime)
+
 * [Backend Developer](http://jobs.florinapp.com/backend-developer) (fulltime)
+
 * [Product Developer](http://jobs.florinapp.com/product-developer) (fulltime)
-* [Florin Ambassador](http://florinapp.com/ambassadeur) (parttime)
+
+* [Florin Ambassador](http://florinapp.com/ambassadeur) (anytime)
 
 SOVERIN - honest email
 
