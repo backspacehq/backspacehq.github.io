@@ -15,18 +15,19 @@ You too? See if there's something that fits your character, talents, and ambitio
 
 BACKSPACE - venture studio
 
-* [Business intern](https://backspace.homerun.co/finance-strategy-and-business-internship)
+* [Finance, strategy & business intern](https://backspace.homerun.co/finance-strategy-and-business-internship)
 * [Design intern](mailto: daisy@backspace.studio)
+* [Open application] (https://backspace.homerun.co/open-application/en/apply)
 
 BYBORRE - textile innovation studio
 
-* Studio Manager (found the perfect one!)
 * [Senior Fashion Designer](https://byborre.homerun.co/senior-designer) (fulltime
-* [Circular Knitting Engineer](https://byborre.homerun.co/circular-knitting-engineer-santoni) (fulltime)
+* [Circular Knitting Engineer](she exists!) (fulltime)
 
 FLORIN - social payments
 
-* [Back-end Developer](http://jobs.florinapp.com/backend-developer) (fulltime)
+* [Product Designer] (http://jobs.florinapp.com/product-designer/en)
+* [Backend Developer](http://jobs.florinapp.com/backend-developer) (fulltime)
 * [Product Developer](http://jobs.florinapp.com/product-developer) (fulltime)
 * [Florin Ambassador](http://florinapp.com/ambassadeur) (parttime)
 
