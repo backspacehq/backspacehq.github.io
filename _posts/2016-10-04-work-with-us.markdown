@@ -17,7 +17,7 @@ BACKSPACE - impact venture studio
 
 * [Finance, strategy & business intern](https://backspace.homerun.co/finance-strategy-and-business-internship)
 
-* [Design intern](mailto: daisy@backspace.studio)
+* \[Design intern\](mailto: daisy@backspace.studio)
 
 * [Open application](https://backspace.homerun.co/open-application/en/apply)
 
@@ -39,4 +39,4 @@ FLORIN - social payments
 
 SOVERIN - honest email
 
-* [Open Application](mailto: diana@soverin.net)
+* \[Open Application\](mailto: diana@soverin.net)
