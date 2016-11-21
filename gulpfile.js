@@ -5,6 +5,8 @@ var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
 var minifyCss = require('gulp-minify-css');
 
+var slim = require("gulp-slim");
+
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
@@ -23,6 +25,16 @@ gulp.task('jekyll-build', function (done) {
  */
 gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
     browserSync.reload();
+});
+
+
+//Build SLIM files:
+gulp.task('slim', function(){
+  gulp.src("*.slim")
+    .pipe(slim({
+      pretty: true
+    }))
+    .pipe(gulp.dest("./_site/"));
 });
 
 /**
