@@ -4,8 +4,12 @@ var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
 var minifyCss = require('gulp-minify-css');
+var request = require('request');
+var fs = require('fs');
 
 var slim = require("gulp-slim");
+
+
 
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -30,11 +34,30 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 
 //Build SLIM files:
 gulp.task('slim', function(){
+  var postfile= require('./posts.json');
   gulp.src("*.slim")
     .pipe(slim({
-      pretty: true
+      pretty: true,
+      data: postfile.payload //Strip payload only
     }))
     .pipe(gulp.dest("./_site/"));
+    browserSync.reload();
+});
+
+//Get medium posts to local file:
+gulp.task('getmedium', function(){
+  request('https://medium.com/the-backspace-journal/latest?format=json', function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+      //Medium starts its json with garbage, lets start at first '{'
+      var json=body.substring(body.indexOf('{'));
+      fs.writeFile("./posts.json", json, function(err) {
+          if(err) {
+            return console.log(err);
+          }
+          console.log("Posts Saved");
+      });
+    }
+  })
 });
 
 /**
@@ -70,16 +93,16 @@ gulp.task('sass', function () {
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-    gulp.watch(['_scss/*.sass', ], ['sass']);
+    gulp.watch(['_scss/*.scss', ], ['sass']);
     gulp.watch([
-               '*.html',
+               // '*.html',
                '*.slim',
-               '_layouts/*.html',
-               'contact/*.html',
-               'people/*.html',
-               'portfolio/*.html',
-               'blog/*.html',
-               '_posts/*',
+               // '_layouts/*.html',
+               // 'contact/*.html',
+               // 'people/*.html',
+               // 'portfolio/*.html',
+               // 'blog/*.html',
+               // '_posts/*',
                '_includes/*.html'
                ],
                // ['jekyll-rebuild', 'slim']);
