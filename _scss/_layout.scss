@@ -2,6 +2,29 @@
   height: 100vh;
 }
 
+.medium6{
+  width: 50%;
+  margin: auto;
+}
+
+@media screen and (max-width: $break-medium){
+    .small-12{
+      width: 100%;
+    }
+}
+
+
+.vertcenter{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.center{
+  text-align: center;
+}
+
 // .site-container
 //   background-color: white
 //   display: flex

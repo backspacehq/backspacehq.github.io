@@ -1,3 +1,85 @@
+.home{
+
+  .viewport1{
+    background-color: $blue;
+    color: $green;
+  }
+
+
+  .viewport2{
+    background-color: white;
+    color: $darkblue;
+  }
+
+  .viewport3{
+    background-color: $bluegray;
+    color: $darkblue;
+  }
+
+  .herocopy{
+    text-align: center;
+    margin-left: 36px;
+    margin-right: 36px;
+    @media screen and (min-width: $break-medium){
+      max-width: 384px;
+      margin: auto;
+    }
+  }
+
+  .heavy{
+    font-weight: 700;
+  }
+
+  p{
+    padding-bottom: 28px;
+    // max-width: 77%;
+    margin-left: 36px;
+    margin-right: 36px;
+  }
+
+  .contactus{
+    float: right;
+  }
+
+  // ul {
+  //   list-style: none; /* Remove list bullets */
+  //   padding: 0;
+  //   margin: 0;
+  // }
+
+  h3{
+    // max-width: 77%;
+    // margin: auto;
+    margin-left: 36px;
+    margin-right: 36px;
+    // font-family: .SFNSDisplay-Regular;
+    font-size: 22px;
+    color: $blue;
+  }
+
+  .journal{
+    padding-top: 60px;
+  }
+
+  .post{
+    height: 50px;
+    padding-left: 50px;
+    padding-top: 15px;
+    border-top: 1px solid $darkgray;
+    font-size: 18px
+  }
+
+  .arrow{
+    float: right;
+    width: 10px;
+    height: 20px;
+    background-image: url(/img/arrow.svg);
+    margin-right: 18px;
+  }
+
+
+}
+
 // .home-cover
 //   background-image: url(/img/content/home/header-photo-temp.jpg)
 //   position: relative

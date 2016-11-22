@@ -4,19 +4,39 @@ $break-medium: 768px;
 $break-large: 1200px;
 
 // Colors
-$base-green: #4FE399;
-$base-grey: #F7F7F7;
-$medium-grey: #F0F0F0;
-$base-black: #333333;
+// $base-green: #4FE399;
+// $base-grey: #F7F7F7;
+// $medium-grey: #F0F0F0;
+// $base-black: #333333;
 $pink: #FF4056;
-$blue: #55AADD;
+// $blue: #55AADD;
+$blue: #0A3FA8;
+
+$green: #1DE092;
+
+$darkblue: #151648;
+$bluegray: #E9EDF5;
+$darkgray: #CED3DB;
+
+// color: #0A3FA8;
 
 //$orange: #FFB459
 //$light-pink: #F3558D
 
 // Fonts
-$chapparal: "chaparral-pro", "Times New Roman", serif;
-$sans-serif: "industry", sans-serif;
+// $chapparal: "chaparral-pro", "Times New Roman", serif;
+
+$sans-serif: "proxima-nova", sans-serif;
+$serif: "ff-tisa-web-pro", serif;
+
+// Headline: serif
+// rest: sans serif
+
+
+
+// font-family: , sans-serif;
+// font-style: normal;
+// font-weight: 400;
 
 // @import reset
 @import 'reset';
