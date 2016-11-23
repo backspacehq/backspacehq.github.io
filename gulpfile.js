@@ -40,7 +40,8 @@ gulp.task('slim', function(){
       pretty: true,
       data: postfile.payload //Strip payload only
     }))
-    .pipe(gulp.dest("./_site/"));
+    .pipe(gulp.dest("./_site/"))
+    .pipe(gulp.dest('./'));
     browserSync.reload();
 });
 
