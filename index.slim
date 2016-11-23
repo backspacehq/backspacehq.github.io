@@ -19,10 +19,11 @@ html
 		.row.viewport3
 			.column.small-12.medium6
 				h3.journal Backspace Journal
-				p.center What we have learned sofar
+				p What we've learned so far.
+				img src="https://mholborn.sharepoint.com/SiteAssets/under-construction-sign-animated.gif"
 				ul
 					- for post in posts
 						a href="https://medium.com/the-backspace-journal/#{post['uniqueSlug']}"
 							li.post
 						    	= post['title']
-						    	span.arrow
+						    	/ span.arrow
