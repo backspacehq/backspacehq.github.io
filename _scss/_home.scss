@@ -30,6 +30,13 @@
     font-weight: 700;
   }
 
+  .maxwidth{
+     @media screen and (min-width: $break-medium){
+      max-width: 384px;
+      margin: auto;
+    }
+  }
+
   p{
     padding-bottom: 28px;
     // max-width: 77%;
