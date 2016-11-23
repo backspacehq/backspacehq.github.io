@@ -45,7 +45,7 @@ gulp.task('slim', function(){
 });
 
 //Get medium posts to local file:
-gulp.task('getmedium', function(){
+gulp.task('getmedium', function(done){
   request('https://medium.com/the-backspace-journal/latest?format=json', function (error, response, body) {
     if (!error && response.statusCode == 200) {
       //Medium starts its json with garbage, lets start at first '{'
@@ -55,6 +55,7 @@ gulp.task('getmedium', function(){
             return console.log(err);
           }
           console.log("Posts Saved");
+          done();
       });
     }
   })
@@ -93,7 +94,7 @@ gulp.task('sass', function () {
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-    gulp.watch(['_scss/*.scss', ], ['sass']);
+    gulp.watch(['_scss/*.scss'], ['sass']);
     gulp.watch([
                // '*.html',
                '*.slim',
@@ -113,4 +114,4 @@ gulp.task('watch', function () {
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['browser-sync', 'slim', 'watch']);
+gulp.task('default', ['browser-sync', 'getmedium', 'slim', 'watch']);
