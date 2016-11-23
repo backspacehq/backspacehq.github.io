@@ -5,7 +5,6 @@
     color: $green;
   }
 
-
   .viewport2{
     background-color: white;
     color: $darkblue;
@@ -20,6 +19,7 @@
     text-align: center;
     margin-left: 36px;
     margin-right: 36px;
+    // height: calc(100vh - 30px);
     @media screen and (min-width: $break-medium){
       max-width: 384px;
       margin: auto;
