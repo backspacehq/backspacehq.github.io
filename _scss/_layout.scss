@@ -13,8 +13,14 @@
     }
 }
 
+.row{
+  width: 100%;
+}
+
 
 .vertcenter{
+  height: 100%; //fallback
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;

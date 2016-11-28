@@ -23,19 +23,22 @@ html
 		meta charset="utf-8" /
 		meta content="width=device-width, initial-scale=1" name="viewport" /
 		meta content="IE=edge" http-equiv="X-UA-Compatible" /
-		meta content=("{{ site.description }}") name="description" /
+		meta content="Backspace Studio" name="description" /
 		title Backspace Studio
 		script src="https://use.typekit.net/xrn0ovc.js"
 		script
 			| try{Typekit.load({ async: true });}catch(e){}</script>
 		link rel="stylesheet" href="./css/main.css"
 	body.home
-		.row.fullview.vertcenter.viewport1
+		.row.fullview.viewport1
 			.column.small-12.medium6
-				/ .menu
-					/ .logo LOGO
-					/ .contactus M
-				h1.herocopy.maxwidth Don’t scale back your ideals, when scaling your business
+				.menu
+					.contactus
+						img src="img/Contact.svg"
+					.logo
+						img src="img/Logo-notxt.svg"
+				.vertcenter.vertcol
+					h1.herocopy.maxwidth Don’t scale back your ideals, when scaling your business
 		.row.fullview.vertcenter.viewport2
 			.column.small-12.medium6
 				p.center.maxwidth.heavy Backspace is a venture studio for technology entrepreneurs with ideals worth building into impactful companies

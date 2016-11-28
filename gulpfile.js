@@ -69,7 +69,8 @@ gulp.task('getmedium', function(done){
 gulp.task('browser-sync', ['sass'], function() {
     browserSync({
         server: {
-            baseDir: '_site'
+            // baseDir: '_site'
+            baseDir: './'
         }
     });
 });

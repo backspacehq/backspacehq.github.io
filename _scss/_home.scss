@@ -15,15 +15,28 @@
     color: $darkblue;
   }
 
+  .menu{
+    // display: flex;
+    // flex-direction: column;
+    // justify-content: flex-start;
+    padding-top: 20px;
+  }
+
+  .logo{
+    text-align: center;
+  }
+
+  .vertcol{
+    // position: absolute;
+    // top: 0;
+  }
+
   .herocopy{
     text-align: center;
     margin-left: 36px;
     margin-right: 36px;
+    // margin-top: calc(50vh - 36px); // 36 is half of own height. Can that be calcd?
     // height: calc(100vh - 30px);
-    @media screen and (min-width: $break-medium){
-      max-width: 384px;
-      margin: auto;
-    }
   }
 
   .heavy{
@@ -33,7 +46,8 @@
   .maxwidth{
      @media screen and (min-width: $break-medium){
       max-width: 384px;
-      margin: auto;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 
@@ -45,7 +59,10 @@
   }
 
   .contactus{
-    float: right;
+    // float: right;
+    position: absolute;
+    right: 20px;
+    padding-right: 20px;
   }
 
   // ul {
