@@ -2,6 +2,10 @@ doctype html
 html
 	head
 		/! Full set of favicons		
+
+		meta charset="utf-8"
+	    meta name="viewport" content="width=device-width, initial-scale=1" /
+
 		link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" /
 		link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png" /
 		link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png" /
@@ -17,14 +21,17 @@ html
 		link rel="stylesheet" href="./css/main.css"
 	body.home
 		.row.fullview.viewport1
-			.column.small-12.medium6
+			.column.small-12
 				.menu
 					.contactus
-						img src="img/Contact.svg"
+						a href="/contact"
+							img.contacticon src="img/Contact.svg"
+							span.hidesmall.contact Contact 
 					.logo
-						img src="img/Logo-notxt.svg"
+						img.showsmall src="img/Logo-notxt.svg"
+						img.hidesmall src="img/Logo.svg"
 				.vertcenter.vertcol
-					h1.herocopy.gutters.maxwidth Don’t scale back your ideals, when scaling your business
+					h1.herocopy.gutters Don’t scale back your ideals, when scaling your business
 		.row.fullview.vertcenter.viewport2
 			.column.small-12.medium6
 				p.center.maxwidth.gutters.heavy Backspace is a venture studio for technology entrepreneurs with ideals worth building into impactful companies
@@ -32,9 +39,11 @@ html
 		.row.viewport3
 			.column.small-12.medium6
 				h3.gutters.journal Backspace Journal
-				p.gutters What we've learned so far.
+				p.gutters What we've <A href="https://journal.backspace.studio/">learned</A> so far.
 				.links.gutters
 					- for post in posts
 						.postlink
-							a href="https://medium.com/the-backspace-journal/#{post['uniqueSlug']}"
+							a href="https://journal.backspace.studio/#{post['uniqueSlug']}"
 						    	= post['title']
+
+				p &nbsp;
