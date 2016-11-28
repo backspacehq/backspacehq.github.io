@@ -24,19 +24,17 @@ html
 					.logo
 						img src="img/Logo-notxt.svg"
 				.vertcenter.vertcol
-					h1.herocopy.maxwidth Don’t scale back your ideals, when scaling your business
+					h1.herocopy.gutters.maxwidth Don’t scale back your ideals, when scaling your business
 		.row.fullview.vertcenter.viewport2
 			.column.small-12.medium6
-				p.center.maxwidth.heavy Backspace is a venture studio for technology entrepreneurs with ideals worth building into impactful companies
-				p.center.maxwidth Doing good is so self-evident, we sometimes forget it’s possible. We hope you, whether an entrepreneur, investor or expert, know what’s most needed right now. Let’s build exactly that, together.
+				p.center.maxwidth.gutters.heavy Backspace is a venture studio for technology entrepreneurs with ideals worth building into impactful companies
+				p.center.maxwidth.gutters Doing good is so self-evident, we sometimes forget it’s possible. We hope you, whether an entrepreneur, investor or expert, know what’s most needed right now. Let’s build exactly that, together.
 		.row.viewport3
 			.column.small-12.medium6
-				h3.journal Backspace Journal
-				p What we've learned so far.
-				/ img src="https://mholborn.sharepoint.com/SiteAssets/under-construction-sign-animated.gif"
-				ul
+				h3.gutters.journal Backspace Journal
+				p.gutters What we've learned so far.
+				.links.gutters
 					- for post in posts
-						a href="https://medium.com/the-backspace-journal/#{post['uniqueSlug']}"
-							li.post
+						.postlink
+							a href="https://medium.com/the-backspace-journal/#{post['uniqueSlug']}"
 						    	= post['title']
-						    	/ span.arrow
