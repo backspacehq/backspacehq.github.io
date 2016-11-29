@@ -1,5 +1,4 @@
 .contactpage{
-	background-color: red;
 
 	.viewport1{
 	    background-color: $blue;
@@ -8,6 +7,10 @@
 
 	a{
 		color: $green;
+	}
+
+	.socialicons{
+	    padding-top: 5px;
 	}
 
 	.socialicons img{

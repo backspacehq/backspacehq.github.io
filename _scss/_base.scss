@@ -51,18 +51,26 @@ h2{
   }
 }
 
+h3{
+  color: $white;
+  font-size: 22px;
+  padding-bottom: 10px;
+  // font-size: 160%;
+  // text-transform: uppercase;
+  // margin-bottom: 0.5em;
+  // @media screen and (max-width: $break-medium){
+  //   font-size: 120%;
+  // }
+}
+
+
 strong{
   font-weight: 400;
   font-style: normal;
 }
 
-a{
-  color: $darkblue;
-  text-decoration: underline;
-  font-weight: 400;
-}
 
-p, li{
+p, li, a{
   font-style: normal;
   font-weight: 300;
   font-size: 18px;
@@ -72,6 +80,14 @@ p, li{
     line-height: 33px;
   }
 }
+
+
+a{
+  color: $darkblue;
+  text-decoration: underline;
+  font-weight: 400;
+}
+
 
 
 
