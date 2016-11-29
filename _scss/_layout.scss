@@ -32,6 +32,21 @@
 }
 
 
+.menu{
+  //Make float as otherwise height got distracted from full height so herocopy isn't centered. There must be a better flexboxy way?
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 0;
+  padding-top: 20px;
+}
+
+.logo{
+  text-align: center;
+}
+
+
+
 .showsmall{
   display: inline-block;
    @media screen and (min-width: $break-small){

@@ -18,6 +18,8 @@ $darkblue: #151648;
 $bluegray: #E9EDF5;
 $darkgray: #CED3DB;
 
+$white: #FFF;
+
 // color: #0A3FA8;
 
 //$orange: #FFB459
@@ -38,14 +40,9 @@ $serif: "ff-tisa-web-pro", serif;
 // font-style: normal;
 // font-weight: 400;
 
-// @import reset
-@import 'reset';
+@import '_reset';
 // / @import icons
-@import 'base';
-@import 'layout';
-// / @import pages
-@import 'home';
-// / @import portfolio
-// / @import people
-// / @import blog
-// / @import contact
+@import '_base';
+@import '_layout';
+@import '_home';
+@import '_contact';

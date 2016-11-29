@@ -15,14 +15,6 @@
     color: $darkblue;
   }
 
-  .menu{
-    //Make float as otherwise height got distracted from full height so herocopy isn't centered. There must be a better flexboxy way?
-    position: absolute;
-    left: 0;
-    width: 100%;
-    top: 0;
-    padding-top: 20px;
-  }
 
   .contacticon{
     padding-right: 10px;
@@ -33,9 +25,6 @@
     vertical-align: text-bottom;
   }
 
-  .logo{
-    text-align: center;
-  }
 
   .vertcol{
     // position: absolute;
