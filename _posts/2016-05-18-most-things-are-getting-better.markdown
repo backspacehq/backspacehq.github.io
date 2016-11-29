@@ -2,6 +2,7 @@
 title: Most things are getting better
 date: 2016-05-18 17:15:00 +02:00
 categories:
+- old
 - worldview
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"

@@ -2,6 +2,7 @@
 title: The anatomy of a startup
 date: 2016-05-18 14:36:00 +02:00
 categories:
+- old
 - startup
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"

@@ -2,11 +2,13 @@
 title: Read before pitching
 date: 2016-01-20 15:00:00 +01:00
 categories:
+- old
 - playbook
 author: Jons Janssens
 author_image: "/img/content/people/jons-janssens.png"
-summary: |
-  Here are some of the resources you need to read before pitching.
+summary: 'Here are some of the resources you need to read before pitching.
+
+'
 cover_image: "/img/content/blog/Read-before-pitching.jpg"
 layout: post
 ---

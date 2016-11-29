@@ -2,6 +2,7 @@
 title: Stay on top of your culture
 date: 2016-07-13 12:02:00 +02:00
 categories:
+- old
 - culture
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"

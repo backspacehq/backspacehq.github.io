@@ -2,6 +2,7 @@
 title: Finding the right maker
 date: 2016-06-15 12:00:00 +02:00
 categories:
+- old
 - studio
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"

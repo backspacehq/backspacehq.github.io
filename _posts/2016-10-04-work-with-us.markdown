@@ -2,6 +2,7 @@
 title: Work with us
 date: 2016-10-04 11:31:00 +02:00
 categories:
+- old
 - studio
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"

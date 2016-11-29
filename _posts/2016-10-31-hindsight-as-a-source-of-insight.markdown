@@ -2,6 +2,7 @@
 title: Hindsight as a source of insight
 date: 2016-10-31 15:31:00 +01:00
 categories:
+- old
 - studio
 author: Barbara Putman Cramer
 author_image: "/img/content/people/barbara-putman-cramer.png"
