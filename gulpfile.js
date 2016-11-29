@@ -35,12 +35,14 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 //Build SLIM files:
 gulp.task('slim', function(){
   var postfile= require('./posts.json');
-  gulp.src("*.slim")
+  gulp.src("*.slim", "contact/*.slim")
     .pipe(slim({
       pretty: true,
+      require: 'slim/include',
+      options: 'include_dirs=[".", "./_includes"]',
       data: postfile.payload //Strip payload only
     }))
-    .pipe(gulp.dest("./_site/"))
+    // .pipe(gulp.dest("./_site/"))
     .pipe(gulp.dest('./'));
     browserSync.reload();
 });
