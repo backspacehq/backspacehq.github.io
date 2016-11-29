@@ -35,7 +35,8 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 //Build SLIM files:
 gulp.task('slim', function(){
   var postfile= require('./posts.json');
-  gulp.src("*.slim", "contact/*.slim")
+  // gulp.src(["*.slim", "contact/*.slim"])
+  gulp.src("*.slim")
     .pipe(slim({
       pretty: true,
       require: 'slim/include',
