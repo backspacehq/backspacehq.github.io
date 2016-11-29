@@ -1,97 +1,88 @@
----
-title: Backspace studio
-layout: default
-class: home
----
-
-<div class="hero-cover home-cover matrix">
-  <div class="wrapper">
-    <h1 class="hero-tagline">Backspace is a startup studio driven by technology. A company that builds tech companies.</h1>
-  </div>
-</div>
-
-<div class="content-block darker stacked">
-  <div class="wrapper">
-    <div class="content-block-text">
-      <h2>Rethink. Rebuild. Repeat.</h2>
-      <p>
-       Our studio builds ideas into companies with positive impact. We combine skills and capital to rapidly execute on an emerging technology. It’s a place where multiple ideas are built to product/market fit. To build a company we follow an analytical flow to learn and continuously improve. After the seed stage, our startups debut as independent companies.
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="content-block stacked why">
-  <div class="wrapper">
-    <div class="content-block-img">
-      <img src="/img/content/home/planet.png" srcset="/img/content/home/planet@2x.png 2x" alt="Technology pushes humanity forward">
-    </div>
-    <div class="content-block-text">
-      <h3>Why?</h3>
-      <h2>Technology pushes humanity forward</h2>
-      <p>
-        We believe that technology has a positive impact on the world. It's the one thing that has increased human wellbeing over time. Our goal is to enable people to live better and harm less. That's why we build tech companies that make the world a little better. They are enablers for change.
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="content-block how">
-  <div class="wrapper">
-    <div class="content-block-img">
-      <img src="/img/content/home/drawing-board.png" srcset="/img/content/home/drawing-board@2x.png 2x" alt="Following a process for progress" width="300">
-    </div>
-    <div class="content-block-text">
-      <h3>How?</h3>
-      <h2>Following a process for progress.</h2>
-      <p>
-        Our experience as entrepreneurs has taught us that progress comes from the right combination of technology, design and traction. This is what moves things forward. Our studio provides what’s needed to get from an idea to a company. We follow an analytical venture flow to get from A to B. It enables us to build several companies in parallel. This process improves with every startup we do.
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="content-block what">
-  <div class="wrapper">
-    <div class="content-block-text">
-      <h3>What?</h3>
-      <h2>The perfect co-founder of a seed stage startup.</h2>
-      <p>
-        As a studio we co-found a startup with an entrepreneur who is a specialist in his field. Together we build the startup from idea to product/market fit over a period of 24 months. This improves the chance of a startup getting through the rollercoaster. After this period they debut as an independent startup with traction, a complete team and a working product. We make technology happen.
-      </p>
-    </div>
-    <div class="content-block-img">
-      <img src="/img/content/home/airplane-scissors.png" srcset="/img/content/home/airplane-scissors@2x.png 2x" alt="The perfect co-founder of a seed stage startup" width="300">
-    </div>
-  </div>
-</div>
-
-<div class="content-block darker stacked formula">
-  <div class="wrapper">
-    <div class="content-block-text">
-      <h2>Our formula for positive impact</h2>
-    </div>
-    <div class="content-block-img">
-      <img src="/img/content/home/formula-positive-impact.png" srcset="/img/content/home/formula-positive-impact@2x.png 2x" alt="Our formula for positive impact">
-    </div>
-  </div>
-</div>
-
-<div class="home-journal">
-  <div class="wrapper">
-    <h2>Our Journal</h2>
-    <div class="content-block-grid home-journal-posts">
-      {% for post in site.posts %}
-      <div class="grid-item">
-        <a href="{{ post.url }}" class="grid-item-img" style="background-image: url({{ post.cover_image }})">
-          <div class="post-title">
-          {{ post.title }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" />
+    <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png" />
+    <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png" />
+    <link href="/manifest.json" rel="manifest" />
+    <link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon" />
+    <meta content="#ffffff" name="theme-color" />
+    <meta content="Backspace Studio" name="description" />
+    <title>Backspace Studio</title>
+    <script src="https://use.typekit.net/xrn0ovc.js"></script>
+    <script>
+      try{Typekit.load({ async: true });}catch(e){}</script>
+    </script>
+    <link href="./css/main.css" rel="stylesheet" />
+  </head>
+  <body class="home">
+    <div class="row fullview viewport1">
+      <div class="column small-12">
+        <div class="menu">
+          <div class="contactus">
+            <a href="contact.html"><img class="contacticon" src="img/Contact.svg" /><span class="hidesmall contact">Contact</span></a>
           </div>
-        </a>
-        <p class="grid-item-desc">{{ post.summary }}</p>
+          <div class="logo">
+            <img class="showsmall" src="img/Logo-notxt.svg" /><img class="hidesmall" src="img/Logo.svg" />
+          </div>
+        </div>
+        <div class="vertcenter vertcol">
+          <h1 class="herocopy gutters">
+            Don’t scale back your ideals, when scaling your business
+          </h1>
+        </div>
       </div>
-      {% endfor %}
     </div>
-  </div>
-</div>
-
+    <div class="row fullview vertcenter viewport2">
+      <div class="column small-12 medium6">
+        <p class="center maxwidth gutters heavy">
+          Backspace is a venture studio for technology entrepreneurs with ideals worth building into impactful companies
+        </p>
+        <p class="center maxwidth gutters">
+          Doing good is so self-evident, we sometimes forget it’s possible. We hope you, whether an entrepreneur, investor or expert, know what’s most needed right now. Let’s build exactly that, together.
+        </p>
+      </div>
+    </div>
+    <div class="row viewport3">
+      <div class="column small-12 medium6 maxwidth">
+        <h3 class="gutters journal">
+          Backspace Journal
+        </h3>
+        <p class="gutters">
+          What we've <A href="https://journal.backspace.studio/">learned</A> so far.
+        </p>
+        <div class="links gutters">
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/hindsight-as-a-source-of-insight-2069c47c009d">Hindsight as a source of insight</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/work-with-us-ae62cd664b5b">Work with us</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/a-log-of-rituals-and-experiments-53d3f14a8ddb">A log of rituals and experiments</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/stay-on-top-of-your-culture-97b8b2755f8">Stay on top of your culture</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/finding-the-right-maker-88f25c5146dc">Finding the right maker</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/most-things-are-getting-better-fe01179bf944">Most things are getting better</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/the-anatomy-of-a-startup-f91529a3a1f">The anatomy of a startup</a>
+          </div>
+          <div class="postlink">
+            <a href="https://journal.backspace.studio/read-before-pitching-5af6ae47d8d8">Read before pitching</a>
+          </div>
+        </div>
+        <p>
+          &nbsp;
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

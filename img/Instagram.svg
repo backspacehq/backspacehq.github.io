@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Contact" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440" transform="translate(-671.000000, -481.000000)" fill="#1DE092">
+            <g id="Networks" transform="translate(464.000000, 428.000000)">
+                <g id="Icons" transform="translate(133.000000, 50.000000)">
+                    <path d="M95,3 L77,3 C75.343,3 74,4.343 74,6 L74,24 C74,25.657 75.343,27 77,27 L95,27 C96.657,27 98,25.657 98,24 L98,6 C98,4.343 96.657,3 95,3 L95,3 Z M86,11 C88.209,11 90,12.791 90,15 C90,17.209 88.209,19 86,19 C83.791,19 82,17.209 82,15 C82,12.791 83.791,11 86,11 L86,11 Z M95,24 L77,24 L77,13 L79.325,13 C79.134,13.638 79,14.3 79,15 C79,18.866 82.134,22 86,22 C89.866,22 93,18.866 93,15 C93,14.3 92.866,13.638 92.675,13 L95,13 L95,24 L95,24 Z M95,9 C95,9.553 94.553,10 94,10 L92,10 C91.447,10 91,9.553 91,9 L91,7 C91,6.447 91.447,6 92,6 L94,6 C94.553,6 95,6.447 95,7 L95,9 L95,9 Z" id="Instagram"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

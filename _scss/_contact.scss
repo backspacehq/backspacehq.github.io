@@ -1,0 +1,32 @@
+.contactpage{
+
+	.viewport1{
+	    background-color: $blue;
+	    color: $white;
+	}
+
+	a{
+		color: $green;
+	}
+
+	.socialicons{
+	    padding-top: 5px;
+	}
+
+	.socialicons img{
+		margin-left: 22px;
+		margin-right: 22px;
+	}
+
+	a.maplink {
+	    width: 50%;
+	    display: block;
+	    margin: auto;
+	    float: left;
+	    text-align: center;
+	}
+
+
+
+
+}

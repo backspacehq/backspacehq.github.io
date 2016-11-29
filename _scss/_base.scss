@@ -1,0 +1,132 @@
+/* Global Reset */
+html{
+  font-size: 62.5%;
+}
+
+body{
+  -webkit-font-smoothing: 'antialiased';
+  -moz-osx-font-smoothing: 'grayscale';
+  font-family: $sans-serif;
+  font-size: 18px;
+  // font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  background-color: white;
+  color: $darkblue;
+  @media screen and (max-width: $break-medium){
+    font-size: 22px;
+    line-height: 33px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: $serif;
+   // font-family: "ff-tisa-web-pro",serif;
+  font-size: 100%;
+  font-weight: 500;
+  font-style: normal;
+  color: $green;
+}
+
+h1{
+  font-size: 32px;
+  // margin-bottom: 1em;
+  line-height: 36px;
+  font-weight: 700;
+  @media screen and (min-width: $break-medium){
+    // font-size: 40px;
+    // line-height: 41px;
+    font-size: 80px;
+    line-height: 82px;
+  }
+}
+
+h2{
+  font-size: 160%;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+  @media screen and (max-width: $break-medium){
+    font-size: 120%;
+  }
+}
+
+h3{
+  color: $white;
+  font-size: 22px;
+  padding-bottom: 10px;
+  // font-size: 160%;
+  // text-transform: uppercase;
+  // margin-bottom: 0.5em;
+  // @media screen and (max-width: $break-medium){
+  //   font-size: 120%;
+  // }
+}
+
+
+strong{
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p, li, a{
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  @media screen and (min-width: $break-medium){
+    font-size: 22px;
+    line-height: 33px;
+  }
+}
+
+
+a{
+  color: $darkblue;
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+
+
+
+
+
+a:hover{
+  color: $pink;
+}
+
+.button{
+  // background-color: $base-green;
+  padding: 12px 16px;
+  border-radius: 8px;
+  color: #000;
+  font-size: 80%;
+}
+
+input, button{
+  // font-family: $chapparal;
+  font-size: 100%;
+  padding: 0px 20px;
+  line-height: 2.2em;
+  @media screen and (max-width: $break-medium){
+    font-size: 80%;
+    padding: 0px 10px;
+  }
+}
+
+input[type=submit], button, .button{
+  font-family: $sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Exceptions */
+.darker{
+  // background-color: $base-grey;
+}
+
+.stacked{
+  flex-direction: column;
+}
