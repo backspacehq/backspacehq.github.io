@@ -1,33 +1,6 @@
 ---
 title: Backspace
 timezone: Europe/Amsterdam
-collections:
-  milestones:
-    title: Milestones
-    output: true
-    new field: some default text
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: milestones
-  values:
-    visible_date: Januari 2016
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    author: Jons Janssens
-    author_image: "/img/content/people/jons-janssens.png"
-    summary: ''
-    category: ''
-    cover_image: ''
 description: 'Backspace is a startup studio driven by technology. Together we build
   complex technologies into commercial companies.
 
