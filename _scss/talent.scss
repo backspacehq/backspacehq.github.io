@@ -1,0 +1,59 @@
+.talent{
+
+	.viewport1{
+	    background-color: $green;
+	    color: $darkblue;
+	}
+
+	h1{
+		color: $blue;
+	}
+
+	h2{
+		@extend .bottomspace;
+	}
+
+	a{
+		color: $darkblue;
+	}
+
+	.people{
+
+	}
+
+	.person{
+		width: 96px;
+		float: left;
+		margin-right: 35px;
+		@media (min-width: $screen-xs-max) {
+			width: 106px;
+			margin-right: 70px;
+		}
+	}
+
+	.avatar{
+		width: 100%;
+		@extend .bottomspace;
+	}
+
+	.persondesc{
+		text-align: center;
+		@extend .bottomspace;
+		min-height: 100px; //as bar uses 3 lines..
+	}
+
+	.avatar:hover {
+		//flip on hover
+		-moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+	}
+
+	.viewport3{
+		background-color: $bluegray;
+	    color: $darkblue;
+	}
+}
