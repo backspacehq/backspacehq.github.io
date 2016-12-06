@@ -102,6 +102,17 @@ li{
   // margin-top: 108px;
 }
 
+.bottomspace{
+  margin-bottom: $topspace;
+}
+
+.bottomspace2x{
+  margin-bottom: $topspace*2;
+}
+
+.bottomspace4x{
+  margin-bottom: $topspace*4;
+}
 
 .darkblue{
   color: $darkblue;
@@ -109,6 +120,17 @@ li{
 
 .blue{
   color: $blue;
+}
+
+.clearfix{
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
 }
 
 
