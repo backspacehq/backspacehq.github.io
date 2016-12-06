@@ -19,11 +19,19 @@
 	}
 
 	.person{
-		width: 33%;
+		margin-right: 10px;
+		margin-left: 10px;
+		width: 100%;
+		@media (min-width: $screen-xs-max) {
+			width: calc(33% - 20px);
+			float: left;
+		}
 	}
 
 	.portrait{
-		
+		@extend .topspace2x;
+		width: 100%;
+		@extend .bottomspace;
 	}
 
 	.name{
