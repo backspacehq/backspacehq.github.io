@@ -71,6 +71,16 @@
   }
 
 
+.gutters{
+  margin-left: 36px;
+  margin-right: 36px;
+  @media screen and (min-width: $break-medium){
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
 .contactus{
   // float: right;
   position: absolute;
