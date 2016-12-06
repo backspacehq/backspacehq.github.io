@@ -17,6 +17,11 @@
 		color: $darkblue;
 	}
 
+	ul{
+		list-style: disc;
+	}
+
+
 	.people{
 
 	}
@@ -55,5 +60,21 @@
 	.viewport3{
 		background-color: $bluegray;
 	    color: $darkblue;
+	}
+
+
+	.company{
+		width: 100%;
+		float: left;
+		min-height: 360px;
+		margin-right: 35px;
+		@media (min-width: $screen-xs-max) {
+			width: calc(50% - 36px);
+			margin-right: 36px;
+		}
+	}
+
+	.companylogo{
+		width: 100%;
 	}
 }
