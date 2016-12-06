@@ -71,13 +71,43 @@
   }
 
 
-    .contactus{
-    // float: right;
-    position: absolute;
-    right: 20px;
-    padding-right: 20px;
-  }
+.contactus{
+  // float: right;
+  position: absolute;
+  right: 20px;
+  padding-right: 20px;
+}
 
+ol{
+  // padding: 20px;
+  list-style-type:decimal;
+}
+
+li{
+  line-height: 200%;
+}
+
+
+.topspace{
+  margin-top: 27px;
+}
+
+.topspace2x{
+  margin-top: 54px;
+}
+
+.topspace4x{
+  margin-top: 108px;
+}
+
+
+.darkblue{
+  color: $darkblue;
+}
+
+.blue{
+  color: $blue;
+}
 
 
 // .site-container
