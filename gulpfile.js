@@ -6,6 +6,8 @@ var cp          = require('child_process');
 var minifyCss = require('gulp-minify-css');
 var request = require('request');
 var fs = require('fs');
+var sourcemaps = require('gulp-sourcemaps');
+
 
 var slim = require("gulp-slim");
 
@@ -83,13 +85,16 @@ gulp.task('browser-sync', ['sass'], function() {
  */
 gulp.task('sass', function () {
     return gulp.src('_scss/main.scss')
+        .pipe(sourcemaps.init())
         .pipe(sass({
             includePaths: ['sass'],
             onError: browserSync.notify
         }))
         .pipe(prefix(['last 3 versions', '> 2%', 'ie 9', 'safari 9'], { cascade: true }))
         .pipe(minifyCss())
-        .pipe(gulp.dest('_site/css'))
+        // .pipe(sass().on('error', sass.logError))
+        .pipe(sourcemaps.write())
+        // .pipe(gulp.dest('_site/css'))
         .pipe(browserSync.reload({stream:true}))
         .pipe(gulp.dest('css'));
 });
