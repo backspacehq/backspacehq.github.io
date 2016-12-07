@@ -21,5 +21,12 @@
         return $(shuffled);
 
     };
-
 })(jQuery);
+
+$(function(){
+    //On load
+    $('.menucont').on('click', function(e){
+        // $('.menucont').toggle();
+        $('.menucont').toggleClass('hidden');//toggle();
+    })
+})
