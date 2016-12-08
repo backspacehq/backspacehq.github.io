@@ -25,7 +25,9 @@
 
 $(function(){
     //On load
-    $('.menucont').on('click', function(e){
+    // $('.menucont').on('click', function(e){
+    //Toggle menu (both show and hide are .hamburger)
+    $('.hamburger').on('click', function(e){
         // $('.menucont').toggle();
         $('.menucont').toggleClass('hidden');//toggle();
     })
