@@ -91,6 +91,12 @@
   }
 }
 
+.extrawide{
+ @media screen and (min-width: $break-medium){
+    max-width: 960px;
+ } 
+}
+
 
 .contactus{
   // float: right;
@@ -102,10 +108,22 @@
 ol{
   // padding: 20px;
   list-style-type:decimal;
+  padding-left: 2rem; //TODO can we do this nicer?
 }
+
+
+  ul{
+    list-style: disc;
+    padding-left: 2rem; //TODO can we do this nicer?
+  }
+
 
 li{
   line-height: 200%;
+}
+
+.text-center{
+  text-align: center;
 }
 
 
