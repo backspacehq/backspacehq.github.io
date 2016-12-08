@@ -1,0 +1,27 @@
+.footer{
+	background-color: $blue;
+	color: white;
+	text-align: center;
+
+	.footerlogo{
+		text-align: center;
+	}
+
+	.emailfield{
+			/* Form field: */
+		background: #151648;
+		border-radius: 5px;
+		border: 0;
+		color: $white;
+	}
+
+	.subscribeknop{
+		/* Background: */
+		background: $white;
+		border-radius: 5px;
+		/* Subscribe: */
+		// font-family: ProximaNova-Regular;
+		// font-size: 18px;
+		color: $darkblue;
+	}
+}
