@@ -45,7 +45,8 @@
 	.persondesc{
 		text-align: center;
 		@extend .bottomspace;
-		min-height: 100px; //as bar uses 3 lines..
+		// min-height: 100px; //as bar uses 3 lines..
+		min-height: 3rem; //as bar uses 3 lines..
 	}
 
 	.avatar:hover {
