@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="15px" viewBox="0 0 23 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>burger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="375" transform="translate(-18.000000, -23.000000)" fill="#1DE092">
+            <g id="Viewport-1">
+                <g id="Navigation-header">
+                    <g id="Menu" transform="translate(18.000000, 23.000000)">
+                        <path d="M0,1.5 C0,0.671572875 0.66354084,0 1.50909424,0 L21.4909058,0 C22.3243555,0 23,0.665797234 23,1.5 C23,2.32842712 22.3364592,3 21.4909058,3 L1.50909424,3 C0.675644504,3 0,2.33420277 0,1.5 Z M0,7.5 C0,6.67157288 0.66354084,6 1.50909424,6 L21.4909058,6 C22.3243555,6 23,6.66579723 23,7.5 C23,8.32842712 22.3364592,9 21.4909058,9 L1.50909424,9 C0.675644504,9 0,8.33420277 0,7.5 Z M0,13.5 C0,12.6715729 0.66354084,12 1.50909424,12 L21.4909058,12 C22.3243555,12 23,12.6657972 23,13.5 C23,14.3284271 22.3364592,15 21.4909058,15 L1.50909424,15 C0.675644504,15 0,14.3342028 0,13.5 Z" id="burger"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
