@@ -4,14 +4,15 @@ html
 	body.home
 		.row.fullview.viewport1
 			.column.small-12
-				.menu
-					.contactus
-						a href="contact.html"
-							img.contacticon src="img/Contact.svg"
-							span.hidesmall.contact Contact
-					.logo
-						img.showsmall src="img/Logo-notxt.svg"
-						img.hidesmall src="img/Logo.svg"
+				include menu.slim
+				/ .menu
+				/ 	.contactus
+				/ 		a href="contact.html"
+				/ 			img.contacticon src="img/Contact.svg"
+				/ 			span.hidesmall.contact Contact
+				/ 	.logo
+				/ 		img.showsmall src="img/Logo-notxt.svg"
+				/ 		img.hidesmall src="img/Logo.svg"
 				.vertcenter.vertcol
 					h1.herocopy.gutters Don’t scale back your ideals, when scaling your business
 		.row.fullview.vertcenter.viewport2
