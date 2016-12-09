@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="684px" height="228px" viewBox="0 0 684 228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Impact</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page:-Investors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1024" transform="translate(-171.000000, -1704.000000)">
+            <g id="Viewport-3" transform="translate(1.000000, 1437.000000)">
+                <rect id="Background" fill="#E9EDF5" x="0" y="0" width="1024" height="603"></rect>
+                <g id="Impact" transform="translate(170.000000, 262.000000)">
+                    <rect id="Line" fill="#CED3DB" x="126" y="142" width="432" height="2"></rect>
+                    <g id="3" transform="translate(504.000000, 53.000000)">
+                        <circle id="Background" fill="#FFFFFF" cx="90" cy="90" r="90"></circle>
+                        <text id="Text" font-family="ProximaNova-Regular, Proxima Nova" font-size="22" font-weight="normal" line-spacing="33" fill="#151648">
+                            <tspan x="40.071" y="78">Traditional</tspan>
+                            <tspan x="40.368" y="111">invesment</tspan>
+                        </text>
+                    </g>
+                    <g id="2" transform="translate(252.000000, 53.000000)">
+                        <circle id="Background" fill="#0A3FA8" cx="90" cy="90" r="90"></circle>
+                        <text id="Text" font-family="ProximaNova-Bold, Proxima Nova" font-size="22" font-weight="bold" line-spacing="33" fill="#FFFFFF">
+                            <tspan x="56.01" y="78">Impact</tspan>
+                            <tspan x="34.604" y="111">investment</tspan>
+                        </text>
+                    </g>
+                    <g id="1" transform="translate(0.000000, 53.000000)">
+                        <circle id="Background" fill="#FFFFFF" cx="90" cy="90" r="90"></circle>
+                        <text id="Text" font-family="ProximaNova-Regular, Proxima Nova" font-size="22" font-weight="normal" line-spacing="33" fill="#151648">
+                            <tspan x="29.731" y="95">Philanthropy</tspan>
+                        </text>
+                    </g>
+                    <text id="Pure-profit" font-family="ProximaNova-Bold, Proxima Nova" font-size="22" font-weight="bold" fill="#151648">
+                        <tspan x="541.09" y="21">Pure profit</tspan>
+                    </text>
+                    <text id="Pure-social" font-family="ProximaNova-Bold, Proxima Nova" font-size="22" font-weight="bold" fill="#151648">
+                        <tspan x="35.286" y="21">Pure social</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

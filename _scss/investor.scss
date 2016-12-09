@@ -1,0 +1,54 @@
+.investor{
+
+	.viewport1{
+	    background-color: $green;
+	    // color: $blue;
+	}
+
+	a{
+		color: $darkblue;
+	}
+
+	.viewport3{
+		background-color: $bluegray;
+	    color: $darkblue;
+	}
+
+	.company{
+		margin-right: 10px;
+		margin-left: 10px;
+		width: 100%;
+		@media (min-width: $screen-xs-max) {
+			width: calc(33% - 20px);
+			float: left;
+		}
+	}
+
+	.companylogo{
+		@extend .topspace2x;
+		width: 100%;
+		@extend .bottomspace;
+	}
+
+	.name{
+		// text-align: center;
+		font-weight: bold;
+	}
+
+	.bol{
+		border-radius: 50%;
+		width: 200px;
+		height: 100px;
+		padding-top: 100px;
+		line-height: 50px;
+
+		background-color: $white;
+	}
+
+	.bluebol{
+		background-color: $blue;
+		color: $white;
+	}
+
+
+}
