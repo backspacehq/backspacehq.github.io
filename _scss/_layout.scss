@@ -129,28 +129,46 @@ li{
 
 .topspace{
   margin-top: $topspace;
+  @media screen and (min-width: $break-small){
+    margin-top: $topspaceDesktop;
+  }
 }
 
 .topspace2x{
   margin-top: $topspace*2;
   // margin-top: 54px;
+  @media screen and (min-width: $break-small){
+    margin-top: $topspaceDesktop*2;
+  }
 }
 
 .topspace4x{
   margin-top: $topspace*4;
   // margin-top: 108px;
+  @media screen and (min-width: $break-small){
+    margin-top: $topspaceDesktop*4;
+  }
 }
 
 .bottomspace{
   margin-bottom: $topspace;
+  @media screen and (min-width: $break-small){
+    margin-bottom: $topspaceDesktop;
+  }
 }
 
 .bottomspace2x{
   margin-bottom: $topspace*2;
+  @media screen and (min-width: $break-small){
+    margin-bottom: $topspaceDesktop*2;
+  }
 }
 
 .bottomspace4x{
   margin-bottom: $topspace*4;
+  @media screen and (min-width: $break-small){
+    margin-bottom: $topspaceDesktop*4;
+  }
 }
 
 .darkblue{
