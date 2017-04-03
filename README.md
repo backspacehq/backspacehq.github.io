@@ -10,7 +10,7 @@ development and production builds.
 
 To run local development builds follow these steps:
 
-1. run `gem install jekyll`: installs jekyll which so you can generate the site locally 
+1. run `gem install jekyll slim`: installs jekyll & slim so you can generate the site locally 
 2. run `npm install`: this should install all dependencies
 3. run `gulp`: this should build the js and open a, livereload, dev environment
 
