@@ -18,6 +18,7 @@
 		border: 0;
 		color: $white;
 		height: 50px;
+		font-size: 18px;
 	}
 
 	.subscribeknop{
@@ -28,7 +29,8 @@
 		line-height: 40px;
 		/* Subscribe: */
 		// font-family: ProximaNova-Regular;
-		// font-size: 18px;
+		font-size: 18px;
 		color: $darkblue;
+		border-width: 0;
 	}
 }
